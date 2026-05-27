@@ -128,6 +128,22 @@ if (!document.getElementById('productMain')) {
   initModal();
 }
 
+// Load site settings from JSON and update contact info on all pages
+(function() {
+  const depth = window.location.pathname.split('/').length > 2 ? '../' : '';
+  fetch(depth + '_data/settings.json')
+    .then(r => r.ok ? r.json() : null)
+    .then(s => {
+      if (!s) return;
+      // Update all elements with data-setting attribute
+      document.querySelectorAll('[data-setting]').forEach(el => {
+        const key = el.dataset.setting;
+        if (s[key] !== undefined) el.textContent = s[key];
+      });
+    })
+    .catch(() => {});
+})();
+
 // Contact form
 const form = document.getElementById('contactForm');
 if (form) {
