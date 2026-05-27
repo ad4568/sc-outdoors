@@ -1,0 +1,28 @@
+{
+  "sku": "JY-99",
+  "name": "Foldable 7075 Aluminum Pole",
+  "category": "poles",
+  "shortDesc": "7075 Alum · 290 g · Foldable",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "7075 Aluminum"
+    },
+    {
+      "key": "Tip",
+      "value": "Tungsten Steel"
+    },
+    {
+      "key": "Handle",
+      "value": "EVA Foam"
+    },
+    {
+      "key": "Weight",
+      "value": "290 g"
+    },
+    {
+      "key": "Folded",
+      "value": "34 cm"
+    }
+  ]
+}

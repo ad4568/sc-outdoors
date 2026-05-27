@@ -1,0 +1,24 @@
+{
+  "sku": "JY-67",
+  "name": "Aluminum Picnic Table",
+  "category": "tables",
+  "shortDesc": "46\" · 220 lbs cap",
+  "specs": [
+    {
+      "key": "Size",
+      "value": "46.4\"×27.5\"×27.5\""
+    },
+    {
+      "key": "Folded",
+      "value": "30.7\"×6.3\"×9\""
+    },
+    {
+      "key": "Capacity",
+      "value": "220 lbs"
+    },
+    {
+      "key": "Material",
+      "value": "Aluminum / Iron"
+    }
+  ]
+}

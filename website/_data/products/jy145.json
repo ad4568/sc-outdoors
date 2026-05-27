@@ -1,0 +1,20 @@
+{
+  "sku": "JY-145",
+  "name": "60L Hiking Backpack",
+  "category": "bags",
+  "shortDesc": "60L · 600D Oxford",
+  "specs": [
+    {
+      "key": "Capacity",
+      "value": "60 L"
+    },
+    {
+      "key": "Material",
+      "value": "600D Oxford"
+    },
+    {
+      "key": "Size",
+      "value": "54×37×30 cm"
+    }
+  ]
+}

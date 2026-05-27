@@ -1,0 +1,24 @@
+{
+  "sku": "JY-78",
+  "name": "Large Family Camping Tent",
+  "category": "tents",
+  "shortDesc": "Oxford · 395×270×183 cm",
+  "specs": [
+    {
+      "key": "Size",
+      "value": "395×270×183 cm"
+    },
+    {
+      "key": "Fabric",
+      "value": "Oxford"
+    },
+    {
+      "key": "WP Outer",
+      "value": "2000–3000 mm"
+    },
+    {
+      "key": "WP Base",
+      "value": "2000–3000 mm"
+    }
+  ]
+}

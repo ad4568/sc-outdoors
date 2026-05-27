@@ -1,0 +1,24 @@
+{
+  "sku": "JY-133",
+  "name": "1200 Lumen Portable Lantern",
+  "category": "lighting",
+  "shortDesc": "1200 LM · 80h · 5000mAh",
+  "specs": [
+    {
+      "key": "Brightness",
+      "value": "1200 Lumen"
+    },
+    {
+      "key": "Battery",
+      "value": "5000 mAh"
+    },
+    {
+      "key": "Runtime",
+      "value": "80 h"
+    },
+    {
+      "key": "WR",
+      "value": "Waterproof"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "sku": "JY-138",
+  "name": "Mini Folding Gas Stove",
+  "category": "cooking",
+  "shortDesc": "Butane · Auto ignition",
+  "specs": [
+    {
+      "key": "Fuel",
+      "value": "Butane"
+    },
+    {
+      "key": "Ignition",
+      "value": "Automatic"
+    },
+    {
+      "key": "Feature",
+      "value": "Portable, Lightweight"
+    }
+  ]
+}

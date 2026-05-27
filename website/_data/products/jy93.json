@@ -1,0 +1,24 @@
+{
+  "sku": "JY-93",
+  "name": "12×12ft Gazebo Screen House",
+  "category": "tents",
+  "shortDesc": "12×12 ft · 8 person",
+  "specs": [
+    {
+      "key": "Size",
+      "value": "12ft × 12ft"
+    },
+    {
+      "key": "Material",
+      "value": "300D Oxford + B3 Gauze"
+    },
+    {
+      "key": "Capacity",
+      "value": "8 people"
+    },
+    {
+      "key": "Weight",
+      "value": "35 lbs"
+    }
+  ]
+}

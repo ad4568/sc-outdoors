@@ -1,0 +1,24 @@
+{
+  "sku": "JY-19",
+  "name": "Oxford Polyester Camping Chair",
+  "category": "chairs",
+  "shortDesc": "600D Oxford · 150 kg",
+  "specs": [
+    {
+      "key": "Size",
+      "value": "78×38×39 cm"
+    },
+    {
+      "key": "Fabric",
+      "value": "600D Oxford"
+    },
+    {
+      "key": "Capacity",
+      "value": "150 kg"
+    },
+    {
+      "key": "Tube",
+      "value": "22 mm"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sku": "JY-79",
+  "name": "2–3 Person Camping Tent",
+  "category": "tents",
+  "shortDesc": "2–3P · Polyester · WP 2000+",
+  "specs": [
+    {
+      "key": "Capacity",
+      "value": "2–3 person"
+    },
+    {
+      "key": "Size",
+      "value": "102\"×82\"×47\""
+    },
+    {
+      "key": "Material",
+      "value": "Polyester"
+    },
+    {
+      "key": "WP",
+      "value": "2000–3000 mm"
+    }
+  ]
+}

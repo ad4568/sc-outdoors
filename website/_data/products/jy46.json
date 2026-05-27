@@ -1,0 +1,20 @@
+{
+  "sku": "JY-46",
+  "name": "Lightweight Camping Table 120cm",
+  "category": "tables",
+  "shortDesc": "120×60×45 cm · Aluminum",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Aluminum Alloy"
+    },
+    {
+      "key": "Size",
+      "value": "120×60×45 cm"
+    },
+    {
+      "key": "Feature",
+      "value": "Lightweight"
+    }
+  ]
+}

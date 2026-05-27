@@ -1,0 +1,20 @@
+{
+  "sku": "JY-22",
+  "name": "Carbon Steel Memory Foam Chair",
+  "category": "chairs",
+  "shortDesc": "Carbon steel · Memory foam",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Carbon Steel + Memory Cotton"
+    },
+    {
+      "key": "Cushion",
+      "value": "Soft memory foam"
+    },
+    {
+      "key": "Weight",
+      "value": "11 kg"
+    }
+  ]
+}

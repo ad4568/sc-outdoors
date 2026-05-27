@@ -1,0 +1,24 @@
+{
+  "sku": "JY-187",
+  "name": "Waterproof Motorcycle Cover",
+  "category": "covers",
+  "shortDesc": "WP · 104×41×51 inches",
+  "specs": [
+    {
+      "key": "WR",
+      "value": "Waterproof"
+    },
+    {
+      "key": "Size",
+      "value": "104\"×41\"×51\""
+    },
+    {
+      "key": "Weight",
+      "value": "4.4 lbs"
+    },
+    {
+      "key": "Color",
+      "value": "Black/Silver"
+    }
+  ]
+}

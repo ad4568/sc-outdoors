@@ -1,0 +1,24 @@
+{
+  "sku": "JY-87",
+  "name": "4-Season Tent 515cm",
+  "category": "tents",
+  "shortDesc": "515×315×205 cm · 18 kg",
+  "specs": [
+    {
+      "key": "Outer",
+      "value": "210D Oxford Black Coat"
+    },
+    {
+      "key": "Inner",
+      "value": "B3 Mesh + 150D Oxford"
+    },
+    {
+      "key": "Size",
+      "value": "515×315×205 cm"
+    },
+    {
+      "key": "Weight",
+      "value": "18 kg"
+    }
+  ]
+}

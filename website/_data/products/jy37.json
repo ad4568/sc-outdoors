@@ -1,0 +1,20 @@
+{
+  "sku": "JY-37",
+  "name": "Rocking Camp Chair",
+  "category": "chairs",
+  "shortDesc": "Rocking · High back support",
+  "specs": [
+    {
+      "key": "Size",
+      "value": "37.8\"×27.1\"×49.2\""
+    },
+    {
+      "key": "Feature",
+      "value": "Rocking chair"
+    },
+    {
+      "key": "Seat Height",
+      "value": "22.8\" off ground"
+    }
+  ]
+}

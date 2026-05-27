@@ -1,0 +1,24 @@
+{
+  "sku": "JY-117",
+  "name": "7075 Aluminum Long Pole",
+  "category": "poles",
+  "shortDesc": "7075 · 115–135 cm",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "7075 Aluminum"
+    },
+    {
+      "key": "Range",
+      "value": "115–135 cm"
+    },
+    {
+      "key": "Tip",
+      "value": "Tungsten Steel"
+    },
+    {
+      "key": "Rubber feet",
+      "value": "Removable"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sku": "JY-165",
+  "name": "Parachute Nylon Hammock",
+  "category": "hammocks",
+  "shortDesc": "Parachute nylon · 300×200 cm",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Parachute Nylon"
+    },
+    {
+      "key": "Size",
+      "value": "300×200 cm"
+    },
+    {
+      "key": "Capacity",
+      "value": "500 lbs"
+    },
+    {
+      "key": "Strap",
+      "value": "10 ft"
+    }
+  ]
+}

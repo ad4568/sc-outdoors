@@ -1,0 +1,24 @@
+{
+  "sku": "JY-159",
+  "name": "65L Waterproof Duffel",
+  "category": "bags",
+  "shortDesc": "65L · WP duffel",
+  "specs": [
+    {
+      "key": "Capacity",
+      "value": "65 L"
+    },
+    {
+      "key": "WR",
+      "value": "Waterproof"
+    },
+    {
+      "key": "Strap",
+      "value": "Removable+Adjustable"
+    },
+    {
+      "key": "Handle",
+      "value": "Web handle"
+    }
+  ]
+}

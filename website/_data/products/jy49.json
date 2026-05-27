@@ -1,0 +1,20 @@
+{
+  "sku": "JY-49",
+  "name": "Foldable Oxford Table S/M",
+  "category": "tables",
+  "shortDesc": "600D Oxford · S/M sizes",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "600D Oxford + Aluminum"
+    },
+    {
+      "key": "Size (S)",
+      "value": "40×34.5×27 cm / 970g"
+    },
+    {
+      "key": "Size (M)",
+      "value": "56×40.5×40 cm / 1352g"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sku": "JY-146",
+  "name": "16L Waterproof Daypack",
+  "category": "bags",
+  "shortDesc": "16L · Waterproof · 4 pockets",
+  "specs": [
+    {
+      "key": "Capacity",
+      "value": "16 L"
+    },
+    {
+      "key": "WR",
+      "value": "Waterproof"
+    },
+    {
+      "key": "Pockets",
+      "value": "4"
+    },
+    {
+      "key": "Weight",
+      "value": "3.7 oz"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sku": "JY-25",
+  "name": "Foldable Moon Chair",
+  "category": "chairs",
+  "shortDesc": "Foldable · 56×56×90 cm",
+  "specs": [
+    {
+      "key": "Size",
+      "value": "56×56×90 cm"
+    },
+    {
+      "key": "Color",
+      "value": "Grey / Grey+Orange"
+    },
+    {
+      "key": "Weight",
+      "value": "5.5 kg"
+    },
+    {
+      "key": "Packed",
+      "value": "109×21×31 cm"
+    }
+  ]
+}

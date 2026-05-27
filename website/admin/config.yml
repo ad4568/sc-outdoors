@@ -1,0 +1,59 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "website/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "products"
+    label: "Products"
+    label_singular: "Product"
+    folder: "website/_data/products"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    extension: "json"
+    format: "json"
+    identifier_field: "sku"
+    summary: "{{sku}} — {{name}}"
+    fields:
+      - { label: "SKU", name: "sku", widget: "string" }
+      - { label: "Product Name", name: "name", widget: "string" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Camping Chairs", value: "chairs" }
+          - { label: "Camping Tables", value: "tables" }
+          - { label: "Tents & Shelters", value: "tents" }
+          - { label: "Trekking Poles", value: "poles" }
+          - { label: "Camping Lighting", value: "lighting" }
+          - { label: "Bags & Packs", value: "bags" }
+          - { label: "Hammocks", value: "hammocks" }
+          - { label: "Cooking Equipment", value: "cooking" }
+          - { label: "Covers & Canopies", value: "covers" }
+          - { label: "Pet Products", value: "pet" }
+      - { label: "Short Description", name: "shortDesc", widget: "string", hint: "Shown under product name on card (e.g. '600D Oxford · 6 pcs/carton')" }
+      - label: "Specs"
+        name: "specs"
+        widget: "list"
+        summary: "{{fields.key}}: {{fields.value}}"
+        fields:
+          - { label: "Key", name: "key", widget: "string" }
+          - { label: "Value", name: "value", widget: "string" }
+      - { label: "Image", name: "image", widget: "image", required: false, hint: "Product photo (optional)" }
+
+  - name: "site_settings"
+    label: "Site Settings"
+    files:
+      - label: "General"
+        name: "general"
+        file: "website/_data/settings.json"
+        fields:
+          - { label: "Company Name", name: "companyName", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Phone", name: "phone", widget: "string" }
+          - { label: "WhatsApp", name: "whatsapp", widget: "string" }
+          - { label: "Location", name: "location", widget: "string" }

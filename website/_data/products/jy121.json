@@ -1,0 +1,24 @@
+{
+  "sku": "JY-121",
+  "name": "Solar Camping Lantern 1000lm",
+  "category": "lighting",
+  "shortDesc": "Solar+Battery · 1000 LM",
+  "specs": [
+    {
+      "key": "Brightness",
+      "value": "1000 Lumen"
+    },
+    {
+      "key": "Power",
+      "value": "Solar + Battery"
+    },
+    {
+      "key": "WR",
+      "value": "Waterproof"
+    },
+    {
+      "key": "Range",
+      "value": "2600 ft"
+    }
+  ]
+}

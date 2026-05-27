@@ -1,0 +1,20 @@
+{
+  "sku": "JY-200",
+  "name": "Elevated Cooling Dog Bed",
+  "category": "pet",
+  "shortDesc": "Teslin mesh · 49\"×31.5\"",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Teslin Mesh + Metal"
+    },
+    {
+      "key": "Size",
+      "value": "49\"×31.5\"×8\""
+    },
+    {
+      "key": "Feature",
+      "value": "Elevated, Cooling, Portable"
+    }
+  ]
+}

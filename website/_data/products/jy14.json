@@ -1,0 +1,24 @@
+{
+  "sku": "JY-14",
+  "name": "7075 Aviation Aluminum Chair",
+  "category": "chairs",
+  "shortDesc": "7075 Aluminum · 900D Oxford",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "7075 Aviation Aluminum"
+    },
+    {
+      "key": "Fabric",
+      "value": "900D Oxford"
+    },
+    {
+      "key": "Tube",
+      "value": "13–28 mm"
+    },
+    {
+      "key": "Weight",
+      "value": "0.5 kg"
+    }
+  ]
+}

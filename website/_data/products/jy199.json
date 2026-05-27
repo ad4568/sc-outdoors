@@ -1,0 +1,20 @@
+{
+  "sku": "JY-199",
+  "name": "Orthopedic Pet Bed",
+  "category": "pet",
+  "shortDesc": "30\"×24\" · Non-skid",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Velvet + Cotton"
+    },
+    {
+      "key": "Size",
+      "value": "30\"×24\"×9\""
+    },
+    {
+      "key": "Feature",
+      "value": "Non-skid, Easy clean"
+    }
+  ]
+}

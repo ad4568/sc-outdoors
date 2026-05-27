@@ -1,0 +1,24 @@
+{
+  "sku": "JY-158",
+  "name": "20L Laptop Backpack WP",
+  "category": "bags",
+  "shortDesc": "20L · WP · 15.6\" laptop",
+  "specs": [
+    {
+      "key": "Capacity",
+      "value": "20 L"
+    },
+    {
+      "key": "WR",
+      "value": "Waterproof"
+    },
+    {
+      "key": "Laptop",
+      "value": "Up to 15.6\""
+    },
+    {
+      "key": "Material",
+      "value": "Nylon"
+    }
+  ]
+}

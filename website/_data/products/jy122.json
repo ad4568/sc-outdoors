@@ -1,0 +1,20 @@
+{
+  "sku": "JY-122",
+  "name": "Rechargeable LED Camp Light",
+  "category": "lighting",
+  "shortDesc": "5W · CE/RoHS/FCC",
+  "specs": [
+    {
+      "key": "Battery",
+      "value": "3.6V / 3350mAh×3"
+    },
+    {
+      "key": "Power",
+      "value": "5W"
+    },
+    {
+      "key": "Cert",
+      "value": "CE, RoHS, PSE, FCC"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sku": "JY-173",
+  "name": "Single Nylon Hammock 100kg",
+  "category": "hammocks",
+  "shortDesc": "Nylon · 100 kg · 12 oz",
+  "specs": [
+    {
+      "key": "Size",
+      "value": "90.5\"×31.5\""
+    },
+    {
+      "key": "Material",
+      "value": "Nylon"
+    },
+    {
+      "key": "Capacity",
+      "value": "100 kg"
+    },
+    {
+      "key": "Weight",
+      "value": "12 oz"
+    }
+  ]
+}

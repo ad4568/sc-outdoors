@@ -1,0 +1,28 @@
+{
+  "sku": "JY-102",
+  "name": "Aircraft Grade 7075 Pole",
+  "category": "poles",
+  "shortDesc": "7075 Alum · Cork+EVA · 54\"",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Aircraft Grade 7075"
+    },
+    {
+      "key": "Tip",
+      "value": "Tungsten Carbide"
+    },
+    {
+      "key": "Handle",
+      "value": "Cork + EVA"
+    },
+    {
+      "key": "Extended",
+      "value": "54\""
+    },
+    {
+      "key": "Collapsed",
+      "value": "24.5\""
+    }
+  ]
+}

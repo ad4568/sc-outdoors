@@ -1,0 +1,24 @@
+{
+  "sku": "JY-136",
+  "name": "Butane Camping Stove",
+  "category": "cooking",
+  "shortDesc": "Butane · 2.3 kW",
+  "specs": [
+    {
+      "key": "Fuel",
+      "value": "Butane Canister"
+    },
+    {
+      "key": "Power",
+      "value": "2.3 kW"
+    },
+    {
+      "key": "Size",
+      "value": "44×20×7 cm"
+    },
+    {
+      "key": "Warranty",
+      "value": "12 months"
+    }
+  ]
+}

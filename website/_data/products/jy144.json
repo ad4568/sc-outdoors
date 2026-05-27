@@ -1,0 +1,24 @@
+{
+  "sku": "JY-144",
+  "name": "Charcoal Grill 10L",
+  "category": "cooking",
+  "shortDesc": "Charcoal · 10L · SS",
+  "specs": [
+    {
+      "key": "Type",
+      "value": "Charcoal Grill"
+    },
+    {
+      "key": "Capacity",
+      "value": "10 L"
+    },
+    {
+      "key": "Material",
+      "value": "Stainless Steel"
+    },
+    {
+      "key": "Folded",
+      "value": "20×5×27 cm"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sku": "JY-161",
+  "name": "Double Nylon Hammock 500lb",
+  "category": "hammocks",
+  "shortDesc": "Nylon · 2P · 500 lbs",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Nylon"
+    },
+    {
+      "key": "Capacity",
+      "value": "500 lbs"
+    },
+    {
+      "key": "Persons",
+      "value": "2"
+    },
+    {
+      "key": "Weight",
+      "value": "28.5 oz"
+    }
+  ]
+}

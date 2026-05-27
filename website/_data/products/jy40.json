@@ -1,0 +1,24 @@
+{
+  "sku": "JY-40",
+  "name": "Portable Folding Aluminum Table",
+  "category": "tables",
+  "shortDesc": "47\" wide · 66 lbs · Folds flat",
+  "specs": [
+    {
+      "key": "Size",
+      "value": "47.24\"×18.5\"×27.36\""
+    },
+    {
+      "key": "Folded",
+      "value": "23.62\"×18.5\"×3.96\""
+    },
+    {
+      "key": "Capacity",
+      "value": "66 lbs"
+    },
+    {
+      "key": "Color",
+      "value": "Black"
+    }
+  ]
+}

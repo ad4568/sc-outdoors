@@ -1,0 +1,24 @@
+{
+  "sku": "JY-137",
+  "name": "Cast Iron Dutch Oven 5.7L",
+  "category": "cooking",
+  "shortDesc": "Cast iron · 5.7L · Non-stick",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Cast Iron"
+    },
+    {
+      "key": "Capacity",
+      "value": "5.7 L"
+    },
+    {
+      "key": "Temp",
+      "value": "370°C max"
+    },
+    {
+      "key": "Weight",
+      "value": "17 lbs"
+    }
+  ]
+}

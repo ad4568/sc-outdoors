@@ -1,0 +1,24 @@
+{
+  "sku": "JY-52",
+  "name": "Mini Round Folding Table",
+  "category": "tables",
+  "shortDesc": "14.5\" dia · 2 lbs",
+  "specs": [
+    {
+      "key": "Diameter",
+      "value": "14.5 inch"
+    },
+    {
+      "key": "Height adj.",
+      "value": "13.8–21 inch"
+    },
+    {
+      "key": "Weight",
+      "value": "2 lbs"
+    },
+    {
+      "key": "Capacity",
+      "value": "20 lbs"
+    }
+  ]
+}

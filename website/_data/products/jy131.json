@@ -1,0 +1,24 @@
+{
+  "sku": "JY-131",
+  "name": "Bluetooth Speaker Lantern",
+  "category": "lighting",
+  "shortDesc": "BT 5.1 · Speaker+Light",
+  "specs": [
+    {
+      "key": "Bluetooth",
+      "value": "5.1"
+    },
+    {
+      "key": "Battery",
+      "value": "1800 mAh"
+    },
+    {
+      "key": "LED",
+      "value": "2.4W"
+    },
+    {
+      "key": "Range",
+      "value": "10 m"
+    }
+  ]
+}

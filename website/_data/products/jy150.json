@@ -1,0 +1,20 @@
+{
+  "sku": "JY-150",
+  "name": "24L Insulated Cooler Bag",
+  "category": "bags",
+  "shortDesc": "24L · PEVA insulated",
+  "specs": [
+    {
+      "key": "Capacity",
+      "value": "24 L"
+    },
+    {
+      "key": "Insulation",
+      "value": "PEVA"
+    },
+    {
+      "key": "Size",
+      "value": "35×28×28 cm"
+    }
+  ]
+}

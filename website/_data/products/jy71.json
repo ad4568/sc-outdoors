@@ -1,0 +1,24 @@
+{
+  "sku": "JY-71",
+  "name": "Table and Chair Set",
+  "category": "tables",
+  "shortDesc": "Complete set · 150×90 cm",
+  "specs": [
+    {
+      "key": "Table",
+      "value": "150×90×70 cm"
+    },
+    {
+      "key": "Chair",
+      "value": "55×61×96 cm"
+    },
+    {
+      "key": "Material",
+      "value": "Steel+Aluminum+Fabric"
+    },
+    {
+      "key": "Packing",
+      "value": "1 set/carton"
+    }
+  ]
+}

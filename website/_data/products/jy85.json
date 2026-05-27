@@ -1,0 +1,24 @@
+{
+  "sku": "JY-85",
+  "name": "Large Dome Tent 14.7m²",
+  "category": "tents",
+  "shortDesc": "14.7 sqm · 490×300×200 cm",
+  "specs": [
+    {
+      "key": "Size",
+      "value": "490×300×200 cm"
+    },
+    {
+      "key": "Area",
+      "value": "14.7 sqm"
+    },
+    {
+      "key": "Floor",
+      "value": "210D Oxford PU2000"
+    },
+    {
+      "key": "Poles",
+      "value": "TPU Tube"
+    }
+  ]
+}

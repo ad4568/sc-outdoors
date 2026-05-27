@@ -1,0 +1,20 @@
+{
+  "sku": "JY-128",
+  "name": "IP66 Waterproof Lantern",
+  "category": "lighting",
+  "shortDesc": "IP66 · 120° beam",
+  "specs": [
+    {
+      "key": "IP Rating",
+      "value": "IP66"
+    },
+    {
+      "key": "Beam",
+      "value": "120°"
+    },
+    {
+      "key": "Temp",
+      "value": "-10–50°C"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "sku": "JY-155",
+  "name": "Insulated Lunch Bag",
+  "category": "bags",
+  "shortDesc": "Leak-proof · Multi-pocket",
+  "specs": [
+    {
+      "key": "Feature",
+      "value": "Leak-proof, insulated"
+    },
+    {
+      "key": "Strap",
+      "value": "Adjustable 25\"–50\""
+    },
+    {
+      "key": "Pockets",
+      "value": "Main + front + 2 side"
+    }
+  ]
+}

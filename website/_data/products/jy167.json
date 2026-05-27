@@ -1,0 +1,24 @@
+{
+  "sku": "JY-167",
+  "name": "Mosquito Net Hammock 300kg",
+  "category": "hammocks",
+  "shortDesc": "Nylon 210T · 300 kg",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Nylon 210T"
+    },
+    {
+      "key": "Size",
+      "value": "260×140 cm"
+    },
+    {
+      "key": "Capacity",
+      "value": "300 kg"
+    },
+    {
+      "key": "Weight",
+      "value": "800 g"
+    }
+  ]
+}

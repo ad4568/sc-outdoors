@@ -1,0 +1,24 @@
+{
+  "sku": "JY-98",
+  "name": "Quick Lock Trekking Pole",
+  "category": "poles",
+  "shortDesc": "Quick Lock 2.0 · 61–135 cm",
+  "specs": [
+    {
+      "key": "Length",
+      "value": "61–135 cm"
+    },
+    {
+      "key": "Lock",
+      "value": "Quick Lock 2.0"
+    },
+    {
+      "key": "Dia",
+      "value": "18/16/14 mm"
+    },
+    {
+      "key": "Weight",
+      "value": "260 g/pole"
+    }
+  ]
+}

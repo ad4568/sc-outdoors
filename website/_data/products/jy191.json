@@ -1,0 +1,20 @@
+{
+  "sku": "JY-191",
+  "name": "Car Cover Polyester",
+  "category": "covers",
+  "shortDesc": "Polyester · 54\"–103\" width",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Polyester"
+    },
+    {
+      "key": "Widths",
+      "value": "54\"–103\"W"
+    },
+    {
+      "key": "Closure",
+      "value": "Zipper"
+    }
+  ]
+}

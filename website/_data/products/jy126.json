@@ -1,0 +1,24 @@
+{
+  "sku": "JY-126",
+  "name": "Multi-Mode LED Lantern",
+  "category": "lighting",
+  "shortDesc": "30–720 LM · 1800–7000K",
+  "specs": [
+    {
+      "key": "Brightness",
+      "value": "30–720 LM"
+    },
+    {
+      "key": "Color Temp",
+      "value": "1800–7000 K"
+    },
+    {
+      "key": "Runtime",
+      "value": "11–180 H"
+    },
+    {
+      "key": "Lifespan",
+      "value": "10000 h"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "sku": "JY-114",
+  "name": "LED Light Trekking Pole",
+  "category": "poles",
+  "shortDesc": "LED + USB · 45\" · Dual function",
+  "specs": [
+    {
+      "key": "Extended",
+      "value": "45 inches"
+    },
+    {
+      "key": "Feature",
+      "value": "LED + USB charging"
+    },
+    {
+      "key": "LED",
+      "value": "2 modes"
+    }
+  ]
+}

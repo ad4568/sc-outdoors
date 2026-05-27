@@ -1,0 +1,24 @@
+{
+  "sku": "JY-197",
+  "name": "Auto Electric Car Umbrella",
+  "category": "covers",
+  "shortDesc": "3.8×2.7m · Auto open",
+  "specs": [
+    {
+      "key": "Fabric",
+      "value": "210D Oxford"
+    },
+    {
+      "key": "Open Size",
+      "value": "3.8×2.7 m"
+    },
+    {
+      "key": "Battery",
+      "value": "5000mAh"
+    },
+    {
+      "key": "WP+UV",
+      "value": "Yes"
+    }
+  ]
+}

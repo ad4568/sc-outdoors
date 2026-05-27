@@ -1,0 +1,24 @@
+{
+  "sku": "JY-94",
+  "name": "Rooftop Tent 2–3 Person",
+  "category": "tents",
+  "shortDesc": "Rooftop · ABS hard shell",
+  "specs": [
+    {
+      "key": "Area",
+      "value": "125×215×105 cm"
+    },
+    {
+      "key": "Fabric",
+      "value": "280D Oxford PU3000"
+    },
+    {
+      "key": "Shell",
+      "value": "ABS Hard Shell"
+    },
+    {
+      "key": "Ladder",
+      "value": "230 cm"
+    }
+  ]
+}

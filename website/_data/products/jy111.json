@@ -1,0 +1,24 @@
+{
+  "sku": "JY-111",
+  "name": "Cane with Foldable Seat 396lb",
+  "category": "poles",
+  "shortDesc": "Cane+seat · 34\" · 396 lbs cap",
+  "specs": [
+    {
+      "key": "Length",
+      "value": "34 inches"
+    },
+    {
+      "key": "Min",
+      "value": "20.8 inches"
+    },
+    {
+      "key": "Capacity",
+      "value": "396 lbs"
+    },
+    {
+      "key": "Weight",
+      "value": "1.6 lbs"
+    }
+  ]
+}

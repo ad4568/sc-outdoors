@@ -1,0 +1,24 @@
+{
+  "sku": "JY-104",
+  "name": "Aero 7075 Hiking Pole 130cm",
+  "category": "poles",
+  "shortDesc": "Aero 7075 · 130 cm",
+  "specs": [
+    {
+      "key": "Material",
+      "value": "Aero-Grade 7075 Aluminum"
+    },
+    {
+      "key": "Extended",
+      "value": "130 cm"
+    },
+    {
+      "key": "Handle",
+      "value": "EVA Foam"
+    },
+    {
+      "key": "Lock",
+      "value": "Metal Flip Lock"
+    }
+  ]
+}
