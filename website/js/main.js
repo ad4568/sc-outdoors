@@ -39,7 +39,7 @@ if (productMain) {
 
   function cardHTML(p) {
     const icon = p.image
-      ? `<img src="${p.image}" alt="${p.name}" style="width:100%;height:100%;object-fit:cover;">`
+      ? `<img src="${p.image}" alt="${p.name}">`
       : '📦';
     return `<div class="product-card" data-sku="${p.sku}" data-name="${p.name}" data-image="${p.image || ''}" data-specs='${JSON.stringify(p.specs || [])}'>
       <div class="product-img">${icon}</div>
@@ -99,7 +99,7 @@ function initModal() {
       const modalIcon = document.getElementById('modalIcon');
       const img = this.dataset.image;
       if (img) {
-        modalIcon.innerHTML = `<img src="${img}" alt="${this.dataset.name}" style="width:100%;height:100%;object-fit:cover;">`;
+        modalIcon.innerHTML = `<img src="${img}" alt="${this.dataset.name}">`;
       } else {
         modalIcon.textContent = '📦';
       }
