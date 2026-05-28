@@ -37,24 +37,11 @@ if (productMain) {
     { id: 'pet',      label: '🐶 Pet Products' },
   ];
 
-  const SLUGS_BY_CATEGORY = {
-    chairs:   ['jy05','jy06','jy14','jy17','jy25','jy37','jy19','jy22'],
-    tables:   ['jy40','jy42','jy46','jy49','jy52','jy67','jy75','jy71'],
-    tents:    ['jy78','jy79','jy85','jy87','jy93','jy94','jy97'],
-    poles:    ['jy98','jy99','jy102','jy104','jy107','jy111','jy114','jy117'],
-    lighting: ['jy121','jy122','jy126','jy128','jy131','jy133'],
-    bags:     ['jy145','jy146','jy150','jy155','jy158','jy159'],
-    hammocks: ['jy161','jy165','jy166','jy167','jy173'],
-    cooking:  ['jy135','jy136','jy137','jy138','jy144'],
-    covers:   ['jy187','jy191','jy195','jy197'],
-    pet:      ['jy198','jy199','jy200'],
-  };
-
   function cardHTML(p) {
     const icon = p.image
       ? `<img src="${p.image}" alt="${p.name}" style="width:100%;height:100%;object-fit:cover;">`
       : '📦';
-    return `<div class="product-card" data-sku="${p.sku}" data-name="${p.name}" data-specs='${JSON.stringify(p.specs || [])}'>
+    return `<div class="product-card" data-sku="${p.sku}" data-name="${p.name}" data-image="${p.image || ''}" data-specs='${JSON.stringify(p.specs || [])}'>
       <div class="product-img">${icon}</div>
       <div class="product-info">
         <div class="product-sku">${p.sku}</div>
@@ -66,27 +53,30 @@ if (productMain) {
   }
 
   async function loadProducts() {
-    const allProducts = {};
-    const fetches = [];
-    for (const [cat, slugs] of Object.entries(SLUGS_BY_CATEGORY)) {
-      for (const slug of slugs) {
-        fetches.push(
-          fetch(`_data/products/${slug}.json`)
-            .then(r => r.ok ? r.json() : null)
-            .then(p => { if (p) { allProducts[slug] = p; } })
-            .catch(() => {})
-        );
-      }
+    const indexRes = await fetch('_data/products-index.json').catch(() => null);
+    if (!indexRes || !indexRes.ok) {
+      productMain.innerHTML = '<p style="padding:40px;text-align:center;">Could not load products.</p>';
+      return;
     }
-    await Promise.all(fetches);
+    const slugs = await indexRes.json();
+
+    const products = (await Promise.all(
+      slugs.map(slug =>
+        fetch(`_data/products/${slug}.json`)
+          .then(r => r.ok ? r.json() : null)
+          .catch(() => null)
+      )
+    )).filter(Boolean);
+
+    const byCat = {};
+    for (const p of products) {
+      if (!byCat[p.category]) byCat[p.category] = [];
+      byCat[p.category].push(p);
+    }
 
     let html = '';
     for (const cat of CATEGORIES) {
-      const slugs = SLUGS_BY_CATEGORY[cat.id] || [];
-      const cards = slugs
-        .filter(s => allProducts[s])
-        .map(s => cardHTML(allProducts[s]))
-        .join('');
+      const cards = (byCat[cat.id] || []).map(cardHTML).join('');
       if (!cards) continue;
       html += `<div class="cat-section" id="${cat.id}">
         <div class="cat-heading">${cat.label}</div>
@@ -106,7 +96,13 @@ function initModal() {
   if (!modal) return;
   document.querySelectorAll('.product-card').forEach(card => {
     card.addEventListener('click', function() {
-      document.getElementById('modalIcon').textContent = '📦';
+      const modalIcon = document.getElementById('modalIcon');
+      const img = this.dataset.image;
+      if (img) {
+        modalIcon.innerHTML = `<img src="${img}" alt="${this.dataset.name}" style="width:100%;height:100%;object-fit:cover;">`;
+      } else {
+        modalIcon.textContent = '📦';
+      }
       document.getElementById('modalName').textContent = this.dataset.name || '';
       document.getElementById('modalSku').textContent = 'Model: ' + (this.dataset.sku || '');
       const specs = JSON.parse(this.dataset.specs || '[]');
