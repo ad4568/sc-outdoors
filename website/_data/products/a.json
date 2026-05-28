@@ -1,0 +1,13 @@
+{
+  "sku": "a",
+  "name": "b",
+  "category": "chairs",
+  "shortDesc": "c",
+  "specs": [
+    {
+      "key": "1",
+      "value": "2"
+    }
+  ],
+  "image": "/images/uploads/ec02hga.jpg"
+}
