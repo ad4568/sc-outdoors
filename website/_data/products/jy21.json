@@ -1,0 +1,24 @@
+{
+  "sku": "JY-21",
+  "name": "Heated Folding Chair",
+  "category": "chairs",
+  "shortDesc": "Packing 1pcs/carrybag, 2pcs/ctn · Packaging Details 1pc/carrybag, 1pcs/ctn",
+  "specs": [
+    {
+      "key": "Packing 1pcs/carrybag, 2pcs/ctn",
+      "value": ""
+    },
+    {
+      "key": "Packaging Details 1pc/carrybag, 1pcs/ctn",
+      "value": ""
+    },
+    {
+      "key": "Single package size",
+      "value": "100X18X18 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "6.000 kg"
+    }
+  ]
+}

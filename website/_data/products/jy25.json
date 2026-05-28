@@ -2,23 +2,31 @@
   "sku": "JY-25",
   "name": "Foldable Moon Chair",
   "category": "chairs",
-  "shortDesc": "Foldable · 56×56×90 cm",
+  "shortDesc": "Feature Foldable,Portable · Usage Camping,Outdoor,Fishing,Beach",
   "specs": [
     {
-      "key": "Size",
-      "value": "56×56×90 cm"
+      "key": "Feature Foldable,Portable",
+      "value": ""
     },
     {
-      "key": "Color",
-      "value": "Grey / Grey+Orange"
+      "key": "Usage Camping,Outdoor,Fishing,Beach",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "5.5 kg"
+      "key": "Color Grey/Grey and Orange",
+      "value": ""
     },
     {
-      "key": "Packed",
-      "value": "109×21×31 cm"
+      "key": "Size 56x56x90CM",
+      "value": ""
+    },
+    {
+      "key": "Single package size",
+      "value": "109X21X31 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "5.500 kg"
     }
   ]
 }

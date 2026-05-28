@@ -1,28 +1,40 @@
 {
   "sku": "JY-102",
-  "name": "Aircraft Grade 7075 Pole",
+  "name": "Adjustable Telescopic Trekking Pole",
   "category": "poles",
-  "shortDesc": "7075 Alum · Cork+EVA · 54\"",
+  "shortDesc": "Shaft Material Aluminum · Extended Length 54 Inches",
   "specs": [
     {
-      "key": "Material",
-      "value": "Aircraft Grade 7075"
+      "key": "Shaft Material Aluminum",
+      "value": ""
+    },
+    {
+      "key": "Extended Length 54 Inches",
+      "value": ""
+    },
+    {
+      "key": "Aircraft Grade Aluminum 7075;",
+      "value": ""
     },
     {
       "key": "Tip",
-      "value": "Tungsten Carbide"
+      "value": "Tungsten Carbide;"
     },
     {
       "key": "Handle",
-      "value": "Cork + EVA"
+      "value": "Cork and EVA;"
     },
     {
-      "key": "Extended",
-      "value": "54\""
+      "key": "Carrying bag",
+      "value": "Nylon. Product"
     },
     {
-      "key": "Collapsed",
-      "value": "24.5\""
+      "key": "Length",
+      "value": "24.5 inches collapsed,"
+    },
+    {
+      "key": "54 inches fully extended.",
+      "value": ""
     }
   ]
 }

@@ -1,24 +1,40 @@
 {
   "sku": "JY-40",
-  "name": "Portable Folding Aluminum Table",
+  "name": "Lightweight Folding Camping Table",
   "category": "tables",
-  "shortDesc": "47\" wide · 66 lbs · Folds flat",
+  "shortDesc": "Product Dimensions 18.5”D x 47.2”W x 27.55”H · Maximum Weight Recommendation 66 ",
   "specs": [
     {
-      "key": "Size",
-      "value": "47.24\"×18.5\"×27.36\""
+      "key": "Product Dimensions 18.5”D x 47.2”W x 27.55”H",
+      "value": ""
     },
     {
-      "key": "Folded",
-      "value": "23.62\"×18.5\"×3.96\""
+      "key": "Maximum Weight Recommendation 66 Pounds",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "66 lbs"
+      "key": "Color Black",
+      "value": ""
     },
     {
-      "key": "Color",
-      "value": "Black"
+      "key": "Product Care Instructions Wipe with Damp Cloth",
+      "value": ""
+    },
+    {
+      "key": "Dimensions",
+      "value": "L47.24”W18.5”H27.36’’;"
+    },
+    {
+      "key": "Folded Dimensions",
+      "value": "L23.62W18.5H3.96’’"
+    },
+    {
+      "key": "Hold up to 68lbs,",
+      "value": ""
+    },
+    {
+      "key": "hook and loop fasteners and storage canvas",
+      "value": ""
     }
   ]
 }

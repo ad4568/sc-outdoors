@@ -1,24 +1,48 @@
 {
   "sku": "JY-17",
-  "name": "Folding Camp Chair Wood Arm",
+  "name": "Lightweight Beach Chair",
   "category": "chairs",
-  "shortDesc": "600D Polyester · 250 lbs",
+  "shortDesc": "Material: Metal/Fabric · Fabric: 600D polyester",
   "specs": [
     {
+      "key": "Material",
+      "value": "Metal/Fabric"
+    },
+    {
       "key": "Fabric",
-      "value": "600D Polyester"
+      "value": "600D polyester"
     },
     {
-      "key": "Frame",
-      "value": "Aluminum + Solid Wood Arm"
+      "key": "Metal",
+      "value": "Power-coated Aluminum"
     },
     {
-      "key": "Open",
-      "value": "30.3\"×22.3\"×29.5\""
+      "key": "Frame and Solid wood arm",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "250 lbs"
+      "key": "Open size",
+      "value": "30.33”22.25”29.5”"
+    },
+    {
+      "key": "Closed size",
+      "value": "3.25”22.25”26.00”"
+    },
+    {
+      "key": "Tube size",
+      "value": "0.9*24mm"
+    },
+    {
+      "key": "Seat height",
+      "value": "11”"
+    },
+    {
+      "key": "Item weight",
+      "value": "8 pounds"
+    },
+    {
+      "key": "Weight capacity",
+      "value": "250lbs"
     }
   ]
 }

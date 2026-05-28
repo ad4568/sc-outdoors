@@ -1,24 +1,56 @@
 {
   "sku": "JY-167",
-  "name": "Mosquito Net Hammock 300kg",
+  "name": "Portable Outdoor Camping Hammock",
   "category": "hammocks",
-  "shortDesc": "Nylon 210T · 300 kg",
+  "shortDesc": "Material Nylon · Applicable People Adult",
   "specs": [
     {
-      "key": "Material",
-      "value": "Nylon 210T"
+      "key": "Material Nylon",
+      "value": ""
     },
     {
-      "key": "Size",
-      "value": "260×140 cm"
+      "key": "Applicable People Adult",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "300 kg"
+      "key": "Length 260*140cm",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "800 g"
+      "key": "Seating capacity 2",
+      "value": ""
+    },
+    {
+      "key": "Other attributes",
+      "value": ""
+    },
+    {
+      "key": "Product name Mosquito Net Hammock",
+      "value": ""
+    },
+    {
+      "key": "Material Nylon 210T (Parachute Cloth)",
+      "value": ""
+    },
+    {
+      "key": "Color As picture show or customized",
+      "value": ""
+    },
+    {
+      "key": "Logo Customized Logo Availabled",
+      "value": ""
+    },
+    {
+      "key": "Feature Lightweight, Portable, Breathable",
+      "value": ""
+    },
+    {
+      "key": "Weight capacity 300kg",
+      "value": ""
+    },
+    {
+      "key": "Weight 800g",
+      "value": ""
     }
   ]
 }

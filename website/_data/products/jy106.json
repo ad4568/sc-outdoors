@@ -1,0 +1,28 @@
+{
+  "sku": "JY-106",
+  "name": "Ski Pole",
+  "category": "poles",
+  "shortDesc": "Diameter 16/9mm · length 110-175",
+  "specs": [
+    {
+      "key": "Diameter 16/9mm",
+      "value": ""
+    },
+    {
+      "key": "length 110-175",
+      "value": ""
+    },
+    {
+      "key": "Printing Silk Screen",
+      "value": ""
+    },
+    {
+      "key": "printing Hot Transfer",
+      "value": ""
+    },
+    {
+      "key": "Tip Tungsten",
+      "value": ""
+    }
+  ]
+}

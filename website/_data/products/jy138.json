@@ -1,20 +1,52 @@
 {
   "sku": "JY-138",
-  "name": "Mini Folding Gas Stove",
+  "name": "Mini Ultralight Folding Gas Stove",
   "category": "cooking",
-  "shortDesc": "Butane · Auto ignition",
+  "shortDesc": "Function Hiking Outdoor Treeking Sprot · Traveling",
   "specs": [
     {
-      "key": "Fuel",
-      "value": "Butane"
+      "key": "Function Hiking Outdoor Treeking Sprot",
+      "value": ""
     },
     {
-      "key": "Ignition",
-      "value": "Automatic"
+      "key": "Traveling",
+      "value": ""
     },
     {
-      "key": "Feature",
-      "value": "Portable, Lightweight"
+      "key": "Installation Operat",
+      "value": ""
+    },
+    {
+      "key": "Fuel Type Gas Butane",
+      "value": ""
+    },
+    {
+      "key": "Gas Type Butane Canister",
+      "value": ""
+    },
+    {
+      "key": "Fuel Liquefied Gas",
+      "value": ""
+    },
+    {
+      "key": "Piece Number Of Wind Deflector <5",
+      "value": ""
+    },
+    {
+      "key": "Application Method Automatic",
+      "value": ""
+    },
+    {
+      "key": "Material iron",
+      "value": ""
+    },
+    {
+      "key": "Stove fuel Butane",
+      "value": ""
+    },
+    {
+      "key": "With Ignition Device or Not Yes",
+      "value": ""
     }
   ]
 }

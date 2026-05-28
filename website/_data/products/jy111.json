@@ -1,24 +1,44 @@
 {
   "sku": "JY-111",
-  "name": "Cane with Foldable Seat 396lb",
+  "name": "Old Man Walking Sticks",
   "category": "poles",
-  "shortDesc": "Cane+seat · 34\" · 396 lbs cap",
+  "shortDesc": "Shaft Material Aluminum · CANE SEAT * 1",
   "specs": [
     {
-      "key": "Length",
-      "value": "34 inches"
+      "key": "Shaft Material Aluminum",
+      "value": ""
     },
     {
-      "key": "Min",
-      "value": "20.8 inches"
+      "key": "CANE SEAT * 1",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "396 lbs"
+      "key": "STORAGE BAG * 1",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "1.6 lbs"
+      "key": "EXTRA TRIANGLE TIP * 1",
+      "value": ""
+    },
+    {
+      "key": "Product Information",
+      "value": ""
+    },
+    {
+      "key": "Weighs 1.6 pounds",
+      "value": ""
+    },
+    {
+      "key": "Length 34 inches",
+      "value": ""
+    },
+    {
+      "key": "Minimum size of 20.8 inches",
+      "value": ""
+    },
+    {
+      "key": "Hold up to 396 pounds",
+      "value": ""
     }
   ]
 }

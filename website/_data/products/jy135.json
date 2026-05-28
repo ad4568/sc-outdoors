@@ -1,24 +1,44 @@
 {
   "sku": "JY-135",
-  "name": "Gas BBQ Grill 3–5 Person",
+  "name": "Camping Cooker with Removable Legs",
   "category": "cooking",
-  "shortDesc": "Gas grill · 3–5P · Aluminum",
+  "shortDesc": "Grill Type 3-5 people · Metal Type aluminum alloy",
   "specs": [
     {
-      "key": "Type",
-      "value": "BBQ Gas Grill"
+      "key": "Grill Type 3-5 people",
+      "value": ""
     },
     {
-      "key": "Material",
-      "value": "Aluminum Alloy"
+      "key": "Metal Type aluminum alloy",
+      "value": ""
     },
     {
-      "key": "For",
-      "value": "3–5 persons"
+      "key": "Finishing Not Coated",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "3.1 kg"
+      "key": "Description Barbecue Grill Gas Bbq Grill",
+      "value": ""
+    },
+    {
+      "key": "Advantage Easy Operation High Efficiency",
+      "value": ""
+    },
+    {
+      "key": "Packaging and delivery",
+      "value": ""
+    },
+    {
+      "key": "Selling Units",
+      "value": "Single item"
+    },
+    {
+      "key": "Single package size",
+      "value": "55X45X25 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "3.100 kg9I9R"
     }
   ]
 }

@@ -1,20 +1,64 @@
 {
   "sku": "JY-155",
-  "name": "Insulated Lunch Bag",
+  "name": "Outdoor Aluminum Foil Cooler Bag",
   "category": "bags",
-  "shortDesc": "Leak-proof · Multi-pocket",
+  "shortDesc": "Recommended Uses For Product Office, · Picnic, Hiking",
   "specs": [
     {
-      "key": "Feature",
-      "value": "Leak-proof, insulated"
+      "key": "Recommended Uses For Product Office,",
+      "value": ""
     },
     {
-      "key": "Strap",
-      "value": "Adjustable 25\"–50\""
+      "key": "Picnic, Hiking",
+      "value": ""
     },
     {
-      "key": "Pockets",
-      "value": "Main + front + 2 side"
+      "key": "Age Range (Description) Adult",
+      "value": ""
+    },
+    {
+      "key": "Special Feature Leak-proof, Insulated",
+      "value": ""
+    },
+    {
+      "key": "Capacity 330 Milliliters",
+      "value": ""
+    },
+    {
+      "key": "Theme Grey",
+      "value": ""
+    },
+    {
+      "key": "Product Dimensions 12”D x 6”W x 12”H",
+      "value": ""
+    },
+    {
+      "key": "Pattern Solid",
+      "value": ""
+    },
+    {
+      "key": "Large lunch bag has a main",
+      "value": ""
+    },
+    {
+      "key": "compartment(10.5”x6”x12”),",
+      "value": ""
+    },
+    {
+      "key": "a big front zipper pocket (8”x7”x1.5”),",
+      "value": ""
+    },
+    {
+      "key": "a back pocket (9.5”x6.5”) and 2 side mesh pockets.",
+      "value": ""
+    },
+    {
+      "key": "Top handles and adjustable & removable shoulder",
+      "value": ""
+    },
+    {
+      "key": "strap(25”-50”) design for easy carry.",
+      "value": ""
     }
   ]
 }

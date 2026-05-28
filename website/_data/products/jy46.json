@@ -1,20 +1,32 @@
 {
   "sku": "JY-46",
-  "name": "Lightweight Camping Table 120cm",
+  "name": "Lightweight Multifunction Expansion Table",
   "category": "tables",
-  "shortDesc": "120×60×45 cm · Aluminum",
+  "shortDesc": "Material Aluminum Alloy · Size 1206045cm",
   "specs": [
     {
-      "key": "Material",
-      "value": "Aluminum Alloy"
+      "key": "Material Aluminum Alloy",
+      "value": ""
     },
     {
-      "key": "Size",
-      "value": "120×60×45 cm"
+      "key": "Size 1206045cm",
+      "value": ""
     },
     {
-      "key": "Feature",
-      "value": "Lightweight"
+      "key": "Feature Lightweight",
+      "value": ""
+    },
+    {
+      "key": "Function Outdoor Camping Traveling",
+      "value": ""
+    },
+    {
+      "key": "Type Camping Lightweight Folding Table",
+      "value": ""
+    },
+    {
+      "key": "Style Modern Simple",
+      "value": ""
     }
   ]
 }

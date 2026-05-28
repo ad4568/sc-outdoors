@@ -1,24 +1,36 @@
 {
   "sku": "JY-93",
-  "name": "12×12ft Gazebo Screen House",
+  "name": "rainproof pergola Camping canopy tent",
   "category": "tents",
-  "shortDesc": "12×12 ft · 8 person",
+  "shortDesc": "Material: 300D Oxford Fabric & B3 · Gauze Netting",
   "specs": [
     {
-      "key": "Size",
-      "value": "12ft × 12ft"
-    },
-    {
       "key": "Material",
-      "value": "300D Oxford + B3 Gauze"
+      "value": "300D Oxford Fabric & B3"
     },
     {
-      "key": "Capacity",
+      "key": "Gauze Netting",
+      "value": ""
+    },
+    {
+      "key": "Size",
+      "value": "12 ft x 12 ft / 3.66 m x 3.66 m"
+    },
+    {
+      "key": "Maximum Coverage",
       "value": "8 people"
     },
     {
+      "key": "Max. Height",
+      "value": "90” / 2.29 m"
+    },
+    {
+      "key": "Width for every side",
+      "value": "71” / 1.8 m"
+    },
+    {
       "key": "Weight",
-      "value": "35 lbs"
+      "value": "35 lbs / 16 kg"
     }
   ]
 }

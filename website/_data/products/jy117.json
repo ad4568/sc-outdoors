@@ -1,24 +1,44 @@
 {
   "sku": "JY-117",
-  "name": "7075 Aluminum Long Pole",
+  "name": "Double Handle Folding Trekking Pole",
   "category": "poles",
-  "shortDesc": "7075 · 115–135 cm",
+  "shortDesc": "Material Lightweight Aircraft Grade 7075 · Aluminium with Tungsten Steel Tips an",
   "specs": [
     {
-      "key": "Material",
-      "value": "7075 Aluminum"
+      "key": "Material Lightweight Aircraft Grade 7075",
+      "value": ""
     },
     {
-      "key": "Range",
-      "value": "115–135 cm"
+      "key": "Aluminium with Tungsten Steel Tips and",
+      "value": ""
     },
     {
-      "key": "Tip",
-      "value": "Tungsten Steel"
+      "key": "Removable Rubber Feet",
+      "value": ""
     },
     {
-      "key": "Rubber feet",
-      "value": "Removable"
+      "key": "Color Black",
+      "value": ""
+    },
+    {
+      "key": "Shaft Material Aluminum",
+      "value": ""
+    },
+    {
+      "key": "Extended Length 135 Centimeters",
+      "value": ""
+    },
+    {
+      "key": "LONGER SIZE (for those 5’7” up to 6’2”)",
+      "value": ""
+    },
+    {
+      "key": "expanded poles adjust from 115 cm to",
+      "value": ""
+    },
+    {
+      "key": "135 cm (45.25” to 53”)",
+      "value": ""
     }
   ]
 }

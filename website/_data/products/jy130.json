@@ -1,0 +1,52 @@
+{
+  "sku": "JY-130",
+  "name": "Remote Control Emergency Camping Lamp",
+  "category": "lighting",
+  "shortDesc": "Input Voltage(V) DC 6V · Lamp Luminous Efficiency(lm/w) 100",
+  "specs": [
+    {
+      "key": "Input Voltage(V) DC 6V",
+      "value": ""
+    },
+    {
+      "key": "Lamp Luminous Efficiency(lm/w) 100",
+      "value": ""
+    },
+    {
+      "key": "Color Rendering Index(Ra) 80",
+      "value": ""
+    },
+    {
+      "key": "Material ABS",
+      "value": ""
+    },
+    {
+      "key": "Battery Lithium Rechargeable Battery",
+      "value": ""
+    },
+    {
+      "key": "Power Supply USB powered/Solar",
+      "value": ""
+    },
+    {
+      "key": "Lighting Model 5 model",
+      "value": ""
+    },
+    {
+      "key": "Packaging and delivery",
+      "value": ""
+    },
+    {
+      "key": "Selling Units",
+      "value": "Single item"
+    },
+    {
+      "key": "Single package size",
+      "value": "19X11X35 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "1.400 kg"
+    }
+  ]
+}

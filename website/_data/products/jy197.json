@@ -1,24 +1,56 @@
 {
   "sku": "JY-197",
-  "name": "Auto Electric Car Umbrella",
+  "name": "Automatic Remote Car Tent Umbrella",
   "category": "covers",
-  "shortDesc": "3.8×2.7m · Auto open",
+  "shortDesc": "Size 3.8*2.7M · Material high density 210D oxford cloth",
   "specs": [
     {
-      "key": "Fabric",
-      "value": "210D Oxford"
+      "key": "Size 3.8*2.7M",
+      "value": ""
     },
     {
-      "key": "Open Size",
-      "value": "3.8×2.7 m"
+      "key": "Material high density 210D oxford cloth",
+      "value": ""
     },
     {
-      "key": "Battery",
-      "value": "5000mAh"
+      "key": "Function Waterproof,UV-proof",
+      "value": ""
     },
     {
-      "key": "WP+UV",
-      "value": "Yes"
+      "key": "Product Name Automatic Car umbrella",
+      "value": ""
+    },
+    {
+      "key": "Fabric Material 210D Oxford cloth",
+      "value": ""
+    },
+    {
+      "key": "Frame Material Fiberglass,PC",
+      "value": ""
+    },
+    {
+      "key": "Open Size 3.8*2.7M",
+      "value": ""
+    },
+    {
+      "key": "Battery Type 18650 Lithium battery",
+      "value": ""
+    },
+    {
+      "key": "Battery Capacity 5000Mah",
+      "value": ""
+    },
+    {
+      "key": "Charging Current 2A",
+      "value": ""
+    },
+    {
+      "key": "Charging Voltage 5V",
+      "value": ""
+    },
+    {
+      "key": "Color Navy Blue,Silver Grey",
+      "value": ""
     }
   ]
 }

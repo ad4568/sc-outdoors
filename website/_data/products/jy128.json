@@ -1,20 +1,56 @@
 {
   "sku": "JY-128",
-  "name": "IP66 Waterproof Lantern",
+  "name": "Single gross weight: 3.000 kg",
   "category": "lighting",
-  "shortDesc": "IP66 · 120° beam",
+  "shortDesc": "Lamp Body Material ABS · IP Rating ip66",
   "specs": [
     {
-      "key": "IP Rating",
-      "value": "IP66"
+      "key": "Lamp Body Material ABS",
+      "value": ""
     },
     {
-      "key": "Beam",
-      "value": "120°"
+      "key": "IP Rating ip66",
+      "value": ""
     },
     {
-      "key": "Temp",
-      "value": "-10–50°C"
+      "key": "Light Source LED",
+      "value": ""
+    },
+    {
+      "key": "Other attributes",
+      "value": ""
+    },
+    {
+      "key": "Beam Angle(°) 120",
+      "value": ""
+    },
+    {
+      "key": "Working Temperature(℃) -10",
+      "value": "50"
+    },
+    {
+      "key": "Model Number X35",
+      "value": ""
+    },
+    {
+      "key": "Packaging and delivery",
+      "value": ""
+    },
+    {
+      "key": "Packaging Details Color gift box",
+      "value": ""
+    },
+    {
+      "key": "Selling Units",
+      "value": "Single item"
+    },
+    {
+      "key": "Single package size",
+      "value": "22X22X16 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "0.770 kg"
     }
   ]
 }

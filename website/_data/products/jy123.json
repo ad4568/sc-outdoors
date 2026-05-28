@@ -1,0 +1,44 @@
+{
+  "sku": "JY-123",
+  "name": "Portable Emergency Flashlight Torch",
+  "category": "lighting",
+  "shortDesc": "Lighting Period (h) >12 · Warranty(Year) 1-Year",
+  "specs": [
+    {
+      "key": "Lighting Period (h) >12",
+      "value": ""
+    },
+    {
+      "key": "Warranty(Year) 1-Year",
+      "value": ""
+    },
+    {
+      "key": "LED Light Source 10W LED",
+      "value": ""
+    },
+    {
+      "key": "Function High-Medium-Low",
+      "value": ""
+    },
+    {
+      "key": "Battery 18650 Battery",
+      "value": ""
+    },
+    {
+      "key": "Brightness 1200 Lumens",
+      "value": ""
+    },
+    {
+      "key": "Size 175*36mm",
+      "value": ""
+    },
+    {
+      "key": "Single package size",
+      "value": "15X4X3 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "0.270 kg"
+    }
+  ]
+}

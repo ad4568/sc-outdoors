@@ -1,24 +1,28 @@
 {
   "sku": "JY-97",
-  "name": "4-Person Ultralight Tent",
+  "name": "Automatic Fast Open Camping Tent",
   "category": "tents",
-  "shortDesc": "4P · 9.9 lbs · WP 3000mm",
+  "shortDesc": "Product Dimensions 118”L x 78.7”W x 47.2”H · Item Weight 9.9 Pounds",
   "specs": [
     {
-      "key": "Size",
-      "value": "118\"×78.7\"×47.2\""
+      "key": "Product Dimensions 118”L x 78.7”W x 47.2”H",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "4 person"
+      "key": "Item Weight 9.9 Pounds",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "9.9 lbs"
+      "key": "Occupancy 4 Person",
+      "value": ""
     },
     {
-      "key": "WP",
-      "value": "3000 mm"
+      "key": "Seasons 4 Season",
+      "value": ""
+    },
+    {
+      "key": "Water Resistance Technology 3000mm",
+      "value": ""
     }
   ]
 }

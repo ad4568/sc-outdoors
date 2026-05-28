@@ -1,20 +1,40 @@
 {
   "sku": "JY-37",
-  "name": "Rocking Camp Chair",
+  "name": "Adjustable Portable Camping Chair",
   "category": "chairs",
-  "shortDesc": "Rocking · High back support",
+  "shortDesc": "Product Dimensions 27.1”D x 37.8”W x 49.2”H · Back Style Solid Back",
   "specs": [
     {
-      "key": "Size",
-      "value": "37.8\"×27.1\"×49.2\""
+      "key": "Product Dimensions 27.1”D x 37.8”W x 49.2”H",
+      "value": ""
     },
     {
-      "key": "Feature",
-      "value": "Rocking chair"
+      "key": "Back Style Solid Back",
+      "value": ""
     },
     {
-      "key": "Seat Height",
-      "value": "22.8\" off ground"
+      "key": "Soutdoor camping chair is 37.8”x27.1”x49.2”,",
+      "value": ""
+    },
+    {
+      "key": "you have roomy seat area to",
+      "value": ""
+    },
+    {
+      "key": "wiggle around unrestricted,",
+      "value": ""
+    },
+    {
+      "key": "and high backrest can fully support your back.",
+      "value": ""
+    },
+    {
+      "key": "22.8” off the ground, the rocking camp chair is",
+      "value": ""
+    },
+    {
+      "key": "perfect for adults to stretch legs freely.",
+      "value": ""
     }
   ]
 }

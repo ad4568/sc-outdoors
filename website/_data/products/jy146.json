@@ -1,24 +1,60 @@
 {
   "sku": "JY-146",
-  "name": "16L Waterproof Daypack",
+  "name": "waterproof lightweight Hiking backpack",
   "category": "bags",
-  "shortDesc": "16L · Waterproof · 4 pockets",
+  "shortDesc": "Shell Type Soft Shell · Lining Description Nylon",
   "specs": [
     {
-      "key": "Capacity",
-      "value": "16 L"
+      "key": "Shell Type Soft Shell",
+      "value": ""
     },
     {
-      "key": "WR",
-      "value": "Waterproof"
+      "key": "Lining Description Nylon",
+      "value": ""
     },
     {
-      "key": "Pockets",
-      "value": "4"
+      "key": "Measurements",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "3.7 oz"
+      "key": "Item Weight 3.7 Ounces",
+      "value": ""
+    },
+    {
+      "key": "Item Dimensions 7.1”D x 11.8”W x 18.5”H",
+      "value": ""
+    },
+    {
+      "key": "St o r a g e Vo l u m e 1 6 L i t e r s",
+      "value": ""
+    },
+    {
+      "key": "Number Of Pockets 4",
+      "value": ""
+    },
+    {
+      "key": "Apparel Closure Type Zipper",
+      "value": ""
+    },
+    {
+      "key": "Wa t e r Re s i s t a n c e L e v e l Wa t e r p r o o f",
+      "value": ""
+    },
+    {
+      "key": "Po c k e t D e s c r i p t i o n U t i l i t y Po c k e t",
+      "value": ""
+    },
+    {
+      "key": "Strap Type Shoulder",
+      "value": ""
+    },
+    {
+      "key": "St r a p , B a c k s t r a p s , A d j u s t a b l e",
+      "value": ""
+    },
+    {
+      "key": "Embellishment Feature Cord",
+      "value": ""
     }
   ]
 }

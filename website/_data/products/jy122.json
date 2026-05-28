@@ -1,20 +1,36 @@
 {
   "sku": "JY-122",
-  "name": "Rechargeable LED Camp Light",
+  "name": "Light Source Type LED",
   "category": "lighting",
-  "shortDesc": "5W · CE/RoHS/FCC",
+  "shortDesc": "Certification ce, rohs, PSE, FCC · Working Temperature(℃) -10℃~50℃",
   "specs": [
     {
-      "key": "Battery",
-      "value": "3.6V / 3350mAh×3"
+      "key": "Certification ce, rohs, PSE, FCC",
+      "value": ""
     },
     {
-      "key": "Power",
-      "value": "5W"
+      "key": "Working Temperature(℃) -10℃~50℃",
+      "value": ""
     },
     {
-      "key": "Cert",
-      "value": "CE, RoHS, PSE, FCC"
+      "key": "Battery Capacity 3.6V/3350mAh*3",
+      "value": ""
+    },
+    {
+      "key": "Power 5W",
+      "value": ""
+    },
+    {
+      "key": "Charging time About 5.5 hours",
+      "value": ""
+    },
+    {
+      "key": "Single package size",
+      "value": "26.3X5.6X5.6 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "0.850 kg"
     }
   ]
 }

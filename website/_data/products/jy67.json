@@ -1,24 +1,24 @@
 {
   "sku": "JY-67",
-  "name": "Aluminum Picnic Table",
+  "name": "Foldable Solid Wood Iron Camping Table",
   "category": "tables",
-  "shortDesc": "46\" · 220 lbs cap",
+  "shortDesc": "Product Dimensions 27.5”D x 46.41”W x 27.5”H · Maximum Weight Recommendation 220",
   "specs": [
     {
-      "key": "Size",
-      "value": "46.4\"×27.5\"×27.5\""
+      "key": "Product Dimensions 27.5”D x 46.41”W x 27.5”H",
+      "value": ""
     },
     {
-      "key": "Folded",
-      "value": "30.7\"×6.3\"×9\""
+      "key": "Maximum Weight Recommendation 220 Pounds",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "220 lbs"
+      "key": "Aluminum, Wrought Iron",
+      "value": ""
     },
     {
-      "key": "Material",
-      "value": "Aluminum / Iron"
+      "key": "folded size is 30.7”L x 6.3”W x 9”H.",
+      "value": ""
     }
   ]
 }

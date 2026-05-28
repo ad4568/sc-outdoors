@@ -1,24 +1,48 @@
 {
   "sku": "JY-137",
-  "name": "Cast Iron Dutch Oven 5.7L",
+  "name": "Cast Iron Combo Cookware",
   "category": "cooking",
-  "shortDesc": "Cast iron · 5.7L · Non-stick",
+  "shortDesc": "Lid Material Cast Iron · Finish Type Non Stick",
   "specs": [
     {
-      "key": "Material",
-      "value": "Cast Iron"
+      "key": "Lid Material Cast Iron",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "5.7 L"
+      "key": "Finish Type Non Stick",
+      "value": ""
     },
     {
-      "key": "Temp",
-      "value": "370°C max"
+      "key": "Is the item dishwasher safe? No",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "17 lbs"
+      "key": "Material Cast Iron",
+      "value": ""
+    },
+    {
+      "key": "Product Care Instructions Hand Wash Only",
+      "value": ""
+    },
+    {
+      "key": "Measurements",
+      "value": ""
+    },
+    {
+      "key": "Item Weight 17 Pounds",
+      "value": ""
+    },
+    {
+      "key": "Item Dimensions W x H 14”W x 6.8”H",
+      "value": ""
+    },
+    {
+      "key": "Capacity 5.7 Liters",
+      "value": ""
+    },
+    {
+      "key": "Temperature Rating 370 Degrees Celsius",
+      "value": ""
     }
   ]
 }

@@ -1,24 +1,60 @@
 {
   "sku": "JY-158",
-  "name": "20L Laptop Backpack WP",
+  "name": "Unisex Waterproof Backpack",
   "category": "bags",
-  "shortDesc": "20L · WP · 15.6\" laptop",
+  "shortDesc": "Item Weight 2 Pounds · Item Dimensions 5.9”D x 11.8”W x 16.5”H",
   "specs": [
     {
-      "key": "Capacity",
-      "value": "20 L"
+      "key": "Item Weight 2 Pounds",
+      "value": ""
     },
     {
-      "key": "WR",
-      "value": "Waterproof"
+      "key": "Item Dimensions 5.9”D x 11.8”W x 16.5”H",
+      "value": ""
     },
     {
-      "key": "Laptop",
-      "value": "Up to 15.6\""
+      "key": "Storage Volume 20 Liters",
+      "value": ""
     },
     {
-      "key": "Material",
-      "value": "Nylon"
+      "key": "Outer Material Polyester",
+      "value": ""
+    },
+    {
+      "key": "Material Type Nylon",
+      "value": ""
+    },
+    {
+      "key": "Shell Type Soft Shell",
+      "value": ""
+    },
+    {
+      "key": "Lining Description Nylon",
+      "value": ""
+    },
+    {
+      "key": "Product Care Instructions Machine Wash",
+      "value": ""
+    },
+    {
+      "key": "Apparel Closure Type Zipper",
+      "value": ""
+    },
+    {
+      "key": "Water Resistance Level Waterproof",
+      "value": ""
+    },
+    {
+      "key": "Pocket Description Utility Pocket RAY,",
+      "value": ""
+    },
+    {
+      "key": "Stash Pocket Compatible Device Size Maximum",
+      "value": ""
+    },
+    {
+      "key": "15.6 InchesStrap Type Shoulder Strap",
+      "value": ""
     }
   ]
 }

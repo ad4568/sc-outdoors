@@ -1,20 +1,32 @@
 {
   "sku": "JY-199",
-  "name": "Orthopedic Pet Bed",
-  "category": "pet",
-  "shortDesc": "30\"×24\" · Non-skid",
+  "name": "outdoor dog bed",
+  "category": "covers",
+  "shortDesc": "Breed Recommendation Medium, Small · Special Feature Environmentally Friendly,",
   "specs": [
     {
-      "key": "Material",
-      "value": "Velvet + Cotton"
+      "key": "Breed Recommendation Medium, Small",
+      "value": ""
     },
     {
-      "key": "Size",
-      "value": "30\"×24\"×9\""
+      "key": "Special Feature Environmentally Friendly,",
+      "value": ""
     },
     {
-      "key": "Feature",
-      "value": "Non-skid, Easy clean"
+      "key": "Orthopedic, Easy to Clean, Durable,",
+      "value": ""
+    },
+    {
+      "key": "Non Skid Bottom",
+      "value": ""
+    },
+    {
+      "key": "Material Velvet, Cotton",
+      "value": ""
+    },
+    {
+      "key": "Product Dimensions 30”L x 24”W x 9”Th",
+      "value": ""
     }
   ]
 }

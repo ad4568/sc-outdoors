@@ -1,24 +1,52 @@
 {
   "sku": "JY-98",
-  "name": "Quick Lock Trekking Pole",
+  "name": "Carbon Fiber Hiking Pole",
   "category": "poles",
-  "shortDesc": "Quick Lock 2.0 · 61–135 cm",
+  "shortDesc": "Length (cm) 135 · Pipe Diameter 18/16/14 mm",
   "specs": [
     {
-      "key": "Length",
-      "value": "61–135 cm"
+      "key": "Length (cm) 135",
+      "value": ""
     },
     {
-      "key": "Lock",
-      "value": "Quick Lock 2.0"
+      "key": "Pipe Diameter 18/16/14 mm",
+      "value": ""
     },
     {
-      "key": "Dia",
-      "value": "18/16/14 mm"
+      "key": "Lock System Quick Lock 2.0",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "260 g/pole"
+      "key": "Pole weight 260g",
+      "value": ""
+    },
+    {
+      "key": "Adjustable Length 61-135cm",
+      "value": ""
+    },
+    {
+      "key": "Packaging Details 1 pair (2 pcs)/Carrybag;",
+      "value": ""
+    },
+    {
+      "key": "20 pairs/Carton",
+      "value": ""
+    },
+    {
+      "key": "DIM",
+      "value": "6943.522 cm"
+    },
+    {
+      "key": "G.W./N.W.",
+      "value": "16/15KG"
+    },
+    {
+      "key": "Single package size",
+      "value": "67X13X7 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "1.030 kg"
     }
   ]
 }

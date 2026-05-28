@@ -1,24 +1,24 @@
 {
   "sku": "JY-19",
-  "name": "Oxford Polyester Camping Chair",
+  "name": "Custom Camping Chair",
   "category": "chairs",
-  "shortDesc": "600D Oxford · 150 kg",
+  "shortDesc": "Open Size 783839 cm · Load Capaicty 150KGS",
   "specs": [
     {
-      "key": "Size",
-      "value": "78×38×39 cm"
+      "key": "Open Size 783839 cm",
+      "value": ""
     },
     {
-      "key": "Fabric",
-      "value": "600D Oxford"
+      "key": "Load Capaicty 150KGS",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "150 kg"
+      "key": "Tube Diameter",
+      "value": "22 MM"
     },
     {
-      "key": "Tube",
-      "value": "22 mm"
+      "key": "Fabric 600D Polyester Oxford",
+      "value": ""
     }
   ]
 }

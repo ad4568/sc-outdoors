@@ -1,24 +1,64 @@
 {
   "sku": "JY-133",
-  "name": "1200 Lumen Portable Lantern",
+  "name": "LED Emergency Camping Lantern",
   "category": "lighting",
-  "shortDesc": "1200 LM · 80h · 5000mAh",
+  "shortDesc": "Light Source Type Light Emitting Diode (LED) · Item Weight 246 Grams",
   "specs": [
     {
-      "key": "Brightness",
-      "value": "1200 Lumen"
+      "key": "Light Source Type Light Emitting Diode (LED)",
+      "value": ""
     },
     {
-      "key": "Battery",
-      "value": "5000 mAh"
+      "key": "Item Weight 246 Grams",
+      "value": ""
     },
     {
-      "key": "Runtime",
-      "value": "80 h"
+      "key": "Item Dimensions L x W x H 2.2”L x 2.2”W x 5.6”H",
+      "value": ""
     },
     {
-      "key": "WR",
-      "value": "Waterproof"
+      "key": "Battery Life 80 Hours",
+      "value": ""
+    },
+    {
+      "key": "Water Resistance Level Waterproof",
+      "value": ""
+    },
+    {
+      "key": "Light Source Type Light Emitting Diode (LED)",
+      "value": ""
+    },
+    {
+      "key": "Power Source 5000mAh Battery Powered",
+      "value": ""
+    },
+    {
+      "key": "Supported Battery Types Lithium-Ion or",
+      "value": ""
+    },
+    {
+      "key": "Lithium-Ion Polymer Voltage 5 Volts (DC)",
+      "value": ""
+    },
+    {
+      "key": "Wattage 18.5 Watt-hours",
+      "value": ""
+    },
+    {
+      "key": "Brightness 1200 Lumen",
+      "value": ""
+    },
+    {
+      "key": "Mounting Type Tabletop Mount",
+      "value": ""
+    },
+    {
+      "key": "Light Source Wattage 0.33 Watts",
+      "value": ""
+    },
+    {
+      "key": "Number of Batteries 1 A batteries required+",
+      "value": ""
     }
   ]
 }

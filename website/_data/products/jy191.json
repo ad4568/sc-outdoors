@@ -1,20 +1,64 @@
 {
   "sku": "JY-191",
-  "name": "Car Cover Polyester",
+  "name": "Stainless Boat Bimini Top",
   "category": "covers",
-  "shortDesc": "Polyester · 54\"–103\" width",
+  "shortDesc": "Blue / Black. 54”-60”W / · 61”-66”W / 67”-72”W /",
   "specs": [
     {
-      "key": "Material",
-      "value": "Polyester"
+      "key": "Blue / Black. 54”-60”W /",
+      "value": ""
     },
     {
-      "key": "Widths",
-      "value": "54\"–103\"W"
+      "key": "61”-66”W / 67”-72”W /",
+      "value": ""
     },
     {
-      "key": "Closure",
-      "value": "Zipper"
+      "key": "73”-78”W / 79”-84”W /",
+      "value": ""
+    },
+    {
+      "key": "85”-90”W / 91”-96”W /",
+      "value": ""
+    },
+    {
+      "key": "97”-103”W.",
+      "value": ""
+    },
+    {
+      "key": "Material Polyester",
+      "value": ""
+    },
+    {
+      "key": "Color Black",
+      "value": ""
+    },
+    {
+      "key": "Closure Type Zipper",
+      "value": ""
+    },
+    {
+      "key": "Pattern Solid",
+      "value": ""
+    },
+    {
+      "key": "Item Package Dimensions",
+      "value": ""
+    },
+    {
+      "key": "10.24 x 5.12 x 2.76 inches",
+      "value": ""
+    },
+    {
+      "key": "Package Weight 13.76 Ounces",
+      "value": ""
+    },
+    {
+      "key": "Brand Name Leader Accessories",
+      "value": ""
+    },
+    {
+      "key": "Size 85”-90”W",
+      "value": ""
     }
   ]
 }

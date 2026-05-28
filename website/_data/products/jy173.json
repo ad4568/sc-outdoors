@@ -1,24 +1,60 @@
 {
   "sku": "JY-173",
-  "name": "Single Nylon Hammock 100kg",
+  "name": "Hiking Hanging hammock",
   "category": "hammocks",
-  "shortDesc": "Nylon · 100 kg · 12 oz",
+  "shortDesc": "Color Dark Green · Product Dimensions 90.5”L x 31.5”W",
   "specs": [
     {
-      "key": "Size",
-      "value": "90.5\"×31.5\""
+      "key": "Color Dark Green",
+      "value": ""
+    },
+    {
+      "key": "Product Dimensions 90.5”L x 31.5”W",
+      "value": ""
+    },
+    {
+      "key": "Folded Size Approximately",
+      "value": ""
+    },
+    {
+      "key": "14.29 inches x 4.72 inches x 2.48 inches",
+      "value": ""
+    },
+    {
+      "key": "(36.5 cm x 12 cm x 6.3 cm)",
+      "value": ""
     },
     {
       "key": "Material",
-      "value": "Nylon"
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "100 kg"
+      "key": "Nylon",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "12 oz"
+      "key": "Maximum Weight Recommendation",
+      "value": ""
+    },
+    {
+      "key": "100 Kilograms",
+      "value": ""
+    },
+    {
+      "key": "Item Weight",
+      "value": ""
+    },
+    {
+      "key": "12 ounces",
+      "value": ""
+    },
+    {
+      "key": "Seating Capacity",
+      "value": ""
+    },
+    {
+      "key": "1.00",
+      "value": ""
     }
   ]
 }

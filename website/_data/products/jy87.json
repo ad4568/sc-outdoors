@@ -1,24 +1,56 @@
 {
   "sku": "JY-87",
-  "name": "4-Season Tent 515cm",
+  "name": "Family Camping Tent Black Coated Two Floors Two Rooms",
   "category": "tents",
-  "shortDesc": "515×315×205 cm · 18 kg",
+  "shortDesc": "Fabric: 210D OXFORD · Outside Tent Waterproof Index: 2000-3000 Mm",
   "specs": [
     {
-      "key": "Outer",
-      "value": "210D Oxford Black Coat"
+      "key": "Fabric",
+      "value": "210D OXFORD"
     },
     {
-      "key": "Inner",
-      "value": "B3 Mesh + 150D Oxford"
+      "key": "Outside Tent Waterproof Index",
+      "value": "2000-3000 Mm"
     },
     {
-      "key": "Size",
-      "value": "515×315×205 cm"
+      "key": "Bottom Waterproof Index",
+      "value": "2000-3000 Mm"
     },
     {
-      "key": "Weight",
-      "value": "18 kg"
+      "key": "Building Type",
+      "value": ""
+    },
+    {
+      "key": "Construction Based on Need",
+      "value": ""
+    },
+    {
+      "key": "OUT TENT FABRIC",
+      "value": ""
+    },
+    {
+      "key": "210D OXFORD BLACK COATING",
+      "value": ""
+    },
+    {
+      "key": "INNER TENT FABRIC",
+      "value": "B3mesh+150D OXFORD"
+    },
+    {
+      "key": "SIZE",
+      "value": "515315205"
+    },
+    {
+      "key": "INNER TENT SIZE",
+      "value": "395275190CM"
+    },
+    {
+      "key": "N.W",
+      "value": "18KG"
+    },
+    {
+      "key": "accessories",
+      "value": "Pole * 3; Floor nail * 23; Wind rope * 9"
     }
   ]
 }

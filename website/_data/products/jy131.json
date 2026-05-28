@@ -1,24 +1,40 @@
 {
   "sku": "JY-131",
-  "name": "Bluetooth Speaker Lantern",
+  "name": "New Design Camping Lantern",
   "category": "lighting",
-  "shortDesc": "BT 5.1 · Speaker+Light",
+  "shortDesc": "Function Music Player · Bluetooth version 5.1",
   "specs": [
     {
-      "key": "Bluetooth",
-      "value": "5.1"
+      "key": "Function Music Player",
+      "value": ""
     },
     {
-      "key": "Battery",
-      "value": "1800 mAh"
+      "key": "Bluetooth version 5.1",
+      "value": ""
     },
     {
-      "key": "LED",
-      "value": "2.4W"
+      "key": "Distance 10m",
+      "value": ""
     },
     {
-      "key": "Range",
-      "value": "10 m"
+      "key": "Battery 1800mah",
+      "value": ""
+    },
+    {
+      "key": "Product size 88.5x240mm",
+      "value": ""
+    },
+    {
+      "key": "Product color white,beige",
+      "value": ""
+    },
+    {
+      "key": "LED Power 2.4W",
+      "value": ""
+    },
+    {
+      "key": "Rate Power 5W",
+      "value": ""
     }
   ]
 }

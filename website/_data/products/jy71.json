@@ -1,24 +1,32 @@
 {
   "sku": "JY-71",
-  "name": "Table and Chair Set",
+  "name": "The parameters of Folding Iron Outdoor Table and Chairs Set",
   "category": "tables",
-  "shortDesc": "Complete set · 150×90 cm",
+  "shortDesc": "Material steel+Aluminium+fabric · Folded yes",
   "specs": [
     {
-      "key": "Table",
-      "value": "150×90×70 cm"
+      "key": "Material steel+Aluminium+fabric",
+      "value": ""
     },
     {
-      "key": "Chair",
-      "value": "55×61×96 cm"
+      "key": "Folded yes",
+      "value": ""
     },
     {
-      "key": "Material",
-      "value": "Steel+Aluminum+Fabric"
+      "key": "Table Size 1509070CM",
+      "value": ""
     },
     {
-      "key": "Packing",
-      "value": "1 set/carton"
+      "key": "Chair size 55x61x96cm",
+      "value": ""
+    },
+    {
+      "key": "Packing 1 set/CTN",
+      "value": ""
+    },
+    {
+      "key": "Customization Accept customized",
+      "value": ""
     }
   ]
 }

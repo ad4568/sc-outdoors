@@ -1,24 +1,44 @@
 {
   "sku": "JY-85",
-  "name": "Large Dome Tent 14.7m²",
+  "name": "Living Room Four Seasons Tent",
   "category": "tents",
-  "shortDesc": "14.7 sqm · 490×300×200 cm",
+  "shortDesc": "Area 14.7 square meter · Fabric Polyester",
   "specs": [
     {
-      "key": "Size",
-      "value": "490×300×200 cm"
+      "key": "Area 14.7 square meter",
+      "value": ""
     },
     {
-      "key": "Area",
-      "value": "14.7 sqm"
+      "key": "Fabric Polyester",
+      "value": ""
     },
     {
-      "key": "Floor",
-      "value": "210D Oxford PU2000"
+      "key": "Outside Tent Waterproof Index 1000-1500 Mm",
+      "value": ""
     },
     {
-      "key": "Poles",
-      "value": "TPU Tube"
+      "key": "Bottom Waterproof Index 2000-3000 Mm",
+      "value": ""
+    },
+    {
+      "key": "Flysheet Fabric 210T Polyester",
+      "value": ""
+    },
+    {
+      "key": "Floor Fabric 210D Oxford PU2000",
+      "value": ""
+    },
+    {
+      "key": "Size 490x300x200cm",
+      "value": ""
+    },
+    {
+      "key": "Pole TPU Tube",
+      "value": ""
+    },
+    {
+      "key": "Feature Waterpoof",
+      "value": ""
     }
   ]
 }

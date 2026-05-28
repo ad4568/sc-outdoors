@@ -1,20 +1,64 @@
 {
   "sku": "JY-195",
-  "name": "10'×20' Carport Shelter",
+  "name": "All-Weather Car Shelter Canopy",
   "category": "covers",
-  "shortDesc": "10'×20'×8' · PE",
+  "shortDesc": "Material Polyethlene · Color Peak",
   "specs": [
     {
-      "key": "Size",
-      "value": "10'×20'×8'"
+      "key": "Material Polyethlene",
+      "value": ""
     },
     {
-      "key": "Material",
-      "value": "Polyethylene"
+      "key": "Color Peak",
+      "value": ""
     },
     {
-      "key": "Frame",
-      "value": "Metal+Wood+Alloy"
+      "key": "Item Weight 61 Grams",
+      "value": ""
+    },
+    {
+      "key": "Frame Material Metal, Wood, Alloy Steel",
+      "value": ""
+    },
+    {
+      "key": "Closure Type Zipper",
+      "value": ""
+    },
+    {
+      "key": "Coverage 10’ x 20’ x 8’",
+      "value": ""
+    },
+    {
+      "key": "Assembly Required Yes",
+      "value": ""
+    },
+    {
+      "key": "Item Package Dimensions 43.5 x 20.5 x 12.5 inches",
+      "value": ""
+    },
+    {
+      "key": "Package Weight 144 Pounds",
+      "value": ""
+    },
+    {
+      "key": "Item Dimensions 237.97 x 117.45 x 98.2 inches",
+      "value": ""
+    },
+    {
+      "key": "Suggested Users unisex-adult",
+      "value": ""
+    },
+    {
+      "key": "Style 10’ X 20’ Autoshelter",
+      "value": ""
+    },
+    {
+      "key": "Size 10’ x 20’ x 8’",
+      "value": ""
+    },
+    {
+      "key": "Sport Type Camping & Hiking",
+      "value": ""
     }
   ]
 }

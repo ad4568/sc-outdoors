@@ -1,0 +1,24 @@
+{
+  "sku": "JY-39",
+  "name": "Foldable Tripod Chair",
+  "category": "chairs",
+  "shortDesc": "Open size: 18” x 18” x 28”/46 x 45 x 70cm · Folded size: 4” x 28”/10 x 70cm",
+  "specs": [
+    {
+      "key": "Open size",
+      "value": "18” x 18” x 28”/46 x 45 x 70cm"
+    },
+    {
+      "key": "Folded size",
+      "value": "4” x 28”/10 x 70cm"
+    },
+    {
+      "key": "Each weight",
+      "value": "3.5lbs/1.6kg"
+    },
+    {
+      "key": "Each weight capacity",
+      "value": "220lbs/100kg"
+    }
+  ]
+}

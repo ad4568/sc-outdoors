@@ -1,24 +1,32 @@
 {
   "sku": "JY-159",
-  "name": "65L Waterproof Duffel",
+  "name": "Nylon Waterproof Outdoor Duffle Bag",
   "category": "bags",
-  "shortDesc": "65L · WP duffel",
+  "shortDesc": "Item Weight 1.2 Pounds · Item Dimensions 28.3”L x 16.5”W x 12.9”H",
   "specs": [
     {
-      "key": "Capacity",
-      "value": "65 L"
+      "key": "Item Weight 1.2 Pounds",
+      "value": ""
     },
     {
-      "key": "WR",
-      "value": "Waterproof"
+      "key": "Item Dimensions 28.3”L x 16.5”W x 12.9”H",
+      "value": ""
     },
     {
-      "key": "Strap",
-      "value": "Removable+Adjustable"
+      "key": "Capacity 65 Liters",
+      "value": ""
     },
     {
-      "key": "Handle",
-      "value": "Web handle"
+      "key": "Handle Type Web Handle",
+      "value": ""
+    },
+    {
+      "key": "Water Resistance Level Waterproof",
+      "value": ""
+    },
+    {
+      "key": "Strap Type Removable, Adjustable",
+      "value": ""
     }
   ]
 }

@@ -1,20 +1,32 @@
 {
   "sku": "JY-200",
-  "name": "Elevated Cooling Dog Bed",
-  "category": "pet",
-  "shortDesc": "Teslin mesh · 49\"×31.5\"",
+  "name": "Portable Indoor & Outdoor Pet Hammockv",
+  "category": "covers",
+  "shortDesc": "Breed Recommendation Large · Special Feature Elevated,Cooling,Portable,",
   "specs": [
     {
-      "key": "Material",
-      "value": "Teslin Mesh + Metal"
+      "key": "Breed Recommendation Large",
+      "value": ""
     },
     {
-      "key": "Size",
-      "value": "49\"×31.5\"×8\""
+      "key": "Special Feature Elevated,Cooling,Portable,",
+      "value": ""
     },
     {
-      "key": "Feature",
-      "value": "Elevated, Cooling, Portable"
+      "key": "Breathable,Lightweight,Weather Resistant,",
+      "value": ""
+    },
+    {
+      "key": "Travel,Non Skid Bottom",
+      "value": ""
+    },
+    {
+      "key": "Material Teslin mesh, Metal",
+      "value": ""
+    },
+    {
+      "key": "Product Dimensions 49”L x 31.5”W x 8”Th",
+      "value": ""
     }
   ]
 }

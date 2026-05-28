@@ -1,20 +1,36 @@
 {
   "sku": "JY-75",
-  "name": "Large Folding Banquet Table",
+  "name": "Portable Foldable Aluminum Camping Table",
   "category": "tables",
-  "shortDesc": "56\" long · 22.4 lbs",
+  "shortDesc": "Color Black · Open Dimensions: 56.3” L x 21.7” Wx 32.3” H;",
   "specs": [
     {
-      "key": "Open",
-      "value": "56.3\"×21.7\"×32.3\""
+      "key": "Color Black",
+      "value": ""
     },
     {
-      "key": "Folded",
-      "value": "34.8\"×5.9\"×21.7\""
+      "key": "Open Dimensions",
+      "value": "56.3” L x 21.7” Wx 32.3” H;"
     },
     {
-      "key": "Weight",
-      "value": "22.4 lbs"
+      "key": "Folded Dimensions",
+      "value": "34.8 ” Lx 5.9” Wx 21.7” H;"
+    },
+    {
+      "key": "Table Weight",
+      "value": "22.4 lbs."
+    },
+    {
+      "key": "Item dimensions L x W x H 22.2 x 70.1 x 68.3",
+      "value": ""
+    },
+    {
+      "key": "Product Care Instructions Clean with",
+      "value": ""
+    },
+    {
+      "key": "mild soap and water",
+      "value": ""
     }
   ]
 }

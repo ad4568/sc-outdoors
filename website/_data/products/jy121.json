@@ -1,24 +1,48 @@
 {
   "sku": "JY-121",
-  "name": "Solar Camping Lantern 1000lm",
+  "name": "rechargeable camping lanterns",
   "category": "lighting",
-  "shortDesc": "Solar+Battery · 1000 LM",
+  "shortDesc": "Product Dimensions: 6.88 x 2.28 x 2.28 inches; · 4.97 ounces",
   "specs": [
     {
-      "key": "Brightness",
-      "value": "1000 Lumen"
+      "key": "Product Dimensions",
+      "value": "6.88 x 2.28 x 2.28 inches;"
     },
     {
-      "key": "Power",
-      "value": "Solar + Battery"
+      "key": "4.97 ounces",
+      "value": ""
     },
     {
-      "key": "WR",
-      "value": "Waterproof"
+      "key": "Water Resistance Level Waterproof",
+      "value": ""
     },
     {
-      "key": "Range",
-      "value": "2600 ft"
+      "key": "Brightness 1000 Lumen",
+      "value": ""
+    },
+    {
+      "key": "Supported Battery Types LED",
+      "value": ""
+    },
+    {
+      "key": "Voltage 5 Volts (DC)",
+      "value": ""
+    },
+    {
+      "key": "Light Path Distance 2600 Feet",
+      "value": ""
+    },
+    {
+      "key": "Number of Batteries 1 AAA batteries required.",
+      "value": ""
+    },
+    {
+      "key": "Additional Features portable",
+      "value": ""
+    },
+    {
+      "key": "Power Source Solar,Battery Powered",
+      "value": ""
     }
   ]
 }

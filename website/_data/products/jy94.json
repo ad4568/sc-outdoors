@@ -1,24 +1,56 @@
 {
   "sku": "JY-94",
-  "name": "Rooftop Tent 2–3 Person",
+  "name": "Camping Soft Car Rooftop Tent",
   "category": "tents",
-  "shortDesc": "Rooftop · ABS hard shell",
+  "shortDesc": "Area 125cm215cm105cm(WLH) · Fabric 280D Oxford Canvas",
   "specs": [
     {
-      "key": "Area",
-      "value": "125×215×105 cm"
+      "key": "Area 125cm215cm105cm(WLH)",
+      "value": ""
     },
     {
-      "key": "Fabric",
-      "value": "280D Oxford PU3000"
+      "key": "Fabric 280D Oxford Canvas",
+      "value": ""
     },
     {
-      "key": "Shell",
-      "value": "ABS Hard Shell"
+      "key": "Outside Tent Waterproof Index >3000 mm",
+      "value": ""
     },
     {
-      "key": "Ladder",
-      "value": "230 cm"
+      "key": "Bottom Waterproof Index >3000 mm",
+      "value": ""
+    },
+    {
+      "key": "Mattress 205cm124cm6cm",
+      "value": ""
+    },
+    {
+      "key": "Size closed(WLH) 125cm215cm29cm",
+      "value": ""
+    },
+    {
+      "key": "Color Gray;Army Green;OEM/ODMService",
+      "value": ""
+    },
+    {
+      "key": "Gross weight 70KG",
+      "value": ""
+    },
+    {
+      "key": "Sleeping Capacity 2-3 Person",
+      "value": ""
+    },
+    {
+      "key": "Body 280G C/P Canvas PU3000MM, W/P, W/R",
+      "value": ""
+    },
+    {
+      "key": "Shell ABS Hard Shell",
+      "value": ""
+    },
+    {
+      "key": "Ladder 230cm Telescopic Ladder",
+      "value": ""
     }
   ]
 }

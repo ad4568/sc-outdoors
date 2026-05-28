@@ -1,24 +1,40 @@
 {
   "sku": "JY-14",
-  "name": "7075 Aviation Aluminum Chair",
+  "name": "Foldable Travel Chair",
   "category": "chairs",
-  "shortDesc": "7075 Aluminum · 900D Oxford",
+  "shortDesc": "Material 7075 aviation aluminum · Tube Size 13/15/16/18/19/22/25/28MM",
   "specs": [
     {
-      "key": "Material",
-      "value": "7075 Aviation Aluminum"
+      "key": "Material 7075 aviation aluminum",
+      "value": ""
     },
     {
-      "key": "Fabric",
-      "value": "900D Oxford"
+      "key": "Tube Size 13/15/16/18/19/22/25/28MM",
+      "value": ""
     },
     {
-      "key": "Tube",
-      "value": "13–28 mm"
+      "key": "to meet all your need",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "0.5 kg"
+      "key": "Packing 1 pc per carrybag, 30pcs/carton",
+      "value": ""
+    },
+    {
+      "key": "Fabric 900D Oxford,High quality&comfortable",
+      "value": ""
+    },
+    {
+      "key": "Selling Units",
+      "value": "Single item"
+    },
+    {
+      "key": "Single package size",
+      "value": "47X43X36 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "0.500 kg"
     }
   ]
 }

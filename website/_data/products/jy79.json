@@ -1,24 +1,44 @@
 {
   "sku": "JY-79",
-  "name": "2–3 Person Camping Tent",
+  "name": "Family Trip Tents",
   "category": "tents",
-  "shortDesc": "2–3P · Polyester · WP 2000+",
+  "shortDesc": "Area 2-3 person · Fabric Polyester, Aluminum, Polyurethane, Fabric",
   "specs": [
     {
-      "key": "Capacity",
-      "value": "2–3 person"
+      "key": "Area 2-3 person",
+      "value": ""
     },
     {
-      "key": "Size",
-      "value": "102\"×82\"×47\""
+      "key": "Fabric Polyester, Aluminum, Polyurethane, Fabric",
+      "value": ""
     },
     {
-      "key": "Material",
-      "value": "Polyester"
+      "key": "Outside Tent Waterproof Index 2000-3000 Mm",
+      "value": ""
     },
     {
-      "key": "WP",
-      "value": "2000–3000 mm"
+      "key": "Bottom Waterproof Index 2000-3000 Mm",
+      "value": ""
+    },
+    {
+      "key": "Usage Outdoor Camping Wild Tent",
+      "value": ""
+    },
+    {
+      "key": "Material Polyester",
+      "value": ""
+    },
+    {
+      "key": "Size 102.2”L x 82.7”W x 47.2”H",
+      "value": ""
+    },
+    {
+      "key": "Logo Customized Logo",
+      "value": ""
+    },
+    {
+      "key": "Package Standard Carton",
+      "value": ""
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "sku": "JY-01",
+  "name": "Convenient Foldable Camping Chair",
+  "category": "chairs",
+  "shortDesc": "Weight: 1.75kg · Folded Size: 141238",
+  "specs": [
+    {
+      "key": "Weight",
+      "value": "1.75kg"
+    },
+    {
+      "key": "Folded Size",
+      "value": "141238"
+    },
+    {
+      "key": "Unfolded Size",
+      "value": "555368"
+    },
+    {
+      "key": "Weight Capacity",
+      "value": "150kg"
+    },
+    {
+      "key": "Inner Box",
+      "value": "13.513.539.5"
+    },
+    {
+      "key": "Carton Size",
+      "value": "4441.530"
+    }
+  ]
+}

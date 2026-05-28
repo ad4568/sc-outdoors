@@ -1,24 +1,40 @@
 {
   "sku": "JY-144",
-  "name": "Charcoal Grill 10L",
+  "name": "Stainless Steel Mini Cassette Stove",
   "category": "cooking",
-  "shortDesc": "Charcoal · 10L · SS",
+  "shortDesc": "Capacity 10L · Material Stainless Steel",
   "specs": [
     {
-      "key": "Type",
-      "value": "Charcoal Grill"
+      "key": "Capacity 10L",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "10 L"
+      "key": "Material Stainless Steel",
+      "value": ""
     },
     {
-      "key": "Material",
-      "value": "Stainless Steel"
+      "key": "Unfold Size 202027CM",
+      "value": ""
     },
     {
-      "key": "Folded",
-      "value": "20×5×27 cm"
+      "key": "Fold Size 20527CM",
+      "value": ""
+    },
+    {
+      "key": "Type Charcoal Grills",
+      "value": ""
+    },
+    {
+      "key": "Weight 2.5kg",
+      "value": ""
+    },
+    {
+      "key": "Single package size",
+      "value": "24X20X20 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "3.000 kg"
     }
   ]
 }

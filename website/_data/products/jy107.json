@@ -1,24 +1,36 @@
 {
   "sku": "JY-107",
-  "name": "Walking Stick with Seat",
+  "name": "walking Cane Activities Portable pole",
   "category": "poles",
-  "shortDesc": "Cane + foldable seat · CE cert",
+  "shortDesc": "Size 85-97cm · Handle Material ABS",
   "specs": [
     {
-      "key": "Size",
-      "value": "85–97 cm"
+      "key": "Size 85-97cm",
+      "value": ""
     },
     {
-      "key": "Shaft",
-      "value": "Aluminum"
+      "key": "Handle Material ABS",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "113 kg"
+      "key": "Shaft Material Aluminum",
+      "value": ""
     },
     {
-      "key": "Cert",
-      "value": "MDD, CE, RoHS"
+      "key": "Load-bearing 113kgs(250LBS)",
+      "value": ""
+    },
+    {
+      "key": "Certificates MDD, CE, RoHS",
+      "value": ""
+    },
+    {
+      "key": "Single package size",
+      "value": "30.5X18X9.2 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "0.420 kg"
     }
   ]
 }

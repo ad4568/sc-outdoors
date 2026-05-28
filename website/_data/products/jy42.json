@@ -2,23 +2,35 @@
   "sku": "JY-42",
   "name": "BBQ Folding Camping Table",
   "category": "tables",
-  "shortDesc": "Aluminum · 0.27 kg · Ultra-light",
+  "shortDesc": "Metal Type Aluminum Alloy · Product Name Folding Camping Table",
   "specs": [
     {
-      "key": "Material",
-      "value": "Aluminum Alloy"
+      "key": "Metal Type Aluminum Alloy",
+      "value": ""
     },
     {
-      "key": "Size",
-      "value": "28.4×20×10 cm"
+      "key": "Product Name Folding Camping Table",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "0.27 kg"
+      "key": "Feature Lightweight",
+      "value": ""
     },
     {
-      "key": "Color",
-      "value": "Gray/Black/Green"
+      "key": "Function Hiking Camping Outdoor Sports",
+      "value": ""
+    },
+    {
+      "key": "Color Light Gray/Black/Green",
+      "value": ""
+    },
+    {
+      "key": "Size 28.42010cm",
+      "value": ""
+    },
+    {
+      "key": "Weight 0.27KG",
+      "value": ""
     }
   ]
 }

@@ -1,28 +1,36 @@
 {
   "sku": "JY-99",
-  "name": "Foldable 7075 Aluminum Pole",
+  "name": "Ultralight Hikin",
   "category": "poles",
-  "shortDesc": "7075 Alum · 290 g · Foldable",
+  "shortDesc": "Net weight: 10.3oz/290g · Folding Size: 13.4inch/34cm; Unfold Adjustable",
   "specs": [
     {
-      "key": "Material",
-      "value": "7075 Aluminum"
+      "key": "Net weight",
+      "value": "10.3oz/290g"
     },
     {
-      "key": "Tip",
+      "key": "Folding Size",
+      "value": "13.4inch/34cm; Unfold Adjustable"
+    },
+    {
+      "key": "Size",
+      "value": "43.3inch-49inch/110cm-125cm"
+    },
+    {
+      "key": "Handle material",
+      "value": "EVA foam"
+    },
+    {
+      "key": "Shaft material",
+      "value": "7075 Aluminum Alloy"
+    },
+    {
+      "key": "Rod tip material",
       "value": "Tungsten Steel"
     },
     {
-      "key": "Handle",
-      "value": "EVA Foam"
-    },
-    {
-      "key": "Weight",
-      "value": "290 g"
-    },
-    {
-      "key": "Folded",
-      "value": "34 cm"
+      "key": "Lock catch type",
+      "value": "Strong ABS + Mental lock"
     }
   ]
 }

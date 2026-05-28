@@ -1,20 +1,24 @@
 {
   "sku": "JY-114",
-  "name": "LED Light Trekking Pole",
+  "name": "Led Light Trekking Pole",
   "category": "poles",
-  "shortDesc": "LED + USB · 45\" · Dual function",
+  "shortDesc": "Extended Length 45 Inches · Tactical hiking stick can easily power up",
   "specs": [
     {
-      "key": "Extended",
-      "value": "45 inches"
+      "key": "Extended Length 45 Inches",
+      "value": ""
     },
     {
-      "key": "Feature",
-      "value": "LED + USB charging"
+      "key": "Tactical hiking stick can easily power up",
+      "value": ""
     },
     {
-      "key": "LED",
-      "value": "2 modes"
+      "key": "your smartphone or any other USB device using the convenient USB Port.",
+      "value": ""
+    },
+    {
+      "key": "a bright white light perfect",
+      "value": ""
     }
   ]
 }

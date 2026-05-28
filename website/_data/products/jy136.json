@@ -1,24 +1,52 @@
 {
   "sku": "JY-136",
-  "name": "Butane Camping Stove",
+  "name": "Mini Tourist Gas Stove",
   "category": "cooking",
-  "shortDesc": "Butane · 2.3 kW",
+  "shortDesc": "Warranty 12-month guarantee · After-sale Service 12-month guarantee",
   "specs": [
     {
-      "key": "Fuel",
-      "value": "Butane Canister"
+      "key": "Warranty 12-month guarantee",
+      "value": ""
     },
     {
-      "key": "Power",
-      "value": "2.3 kW"
+      "key": "After-sale Service 12-month guarantee",
+      "value": ""
     },
     {
-      "key": "Size",
-      "value": "44×20×7 cm"
+      "key": "Sample Available",
+      "value": ""
     },
     {
-      "key": "Warranty",
-      "value": "12 months"
+      "key": "Material Metal Body w/Enamel Coated",
+      "value": ""
+    },
+    {
+      "key": "Steel Drip Pan",
+      "value": ""
+    },
+    {
+      "key": "size 44X20X7CM",
+      "value": ""
+    },
+    {
+      "key": "Weight 3.75kg",
+      "value": ""
+    },
+    {
+      "key": "Power 2.3KW",
+      "value": ""
+    },
+    {
+      "key": "Fuel Type 8 oz Butane Canister",
+      "value": ""
+    },
+    {
+      "key": "Single package size",
+      "value": "25X50X15 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "3.750 kg"
     }
   ]
 }

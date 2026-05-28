@@ -1,24 +1,24 @@
 {
   "sku": "JY-78",
-  "name": "Large Family Camping Tent",
+  "name": "Waterproof Camping Tents",
   "category": "tents",
-  "shortDesc": "Oxford · 395×270×183 cm",
+  "shortDesc": "Area 395270183cm · Fabric Oxford",
   "specs": [
     {
-      "key": "Size",
-      "value": "395×270×183 cm"
+      "key": "Area 395270183cm",
+      "value": ""
     },
     {
-      "key": "Fabric",
-      "value": "Oxford"
+      "key": "Fabric Oxford",
+      "value": ""
     },
     {
-      "key": "WP Outer",
-      "value": "2000–3000 mm"
+      "key": "Outside Tent Waterproof Index 2000-3000 Mm",
+      "value": ""
     },
     {
-      "key": "WP Base",
-      "value": "2000–3000 mm"
+      "key": "Bottom Waterproof Index 2000-3000 Mm",
+      "value": ""
     }
   ]
 }

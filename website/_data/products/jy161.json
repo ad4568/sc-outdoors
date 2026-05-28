@@ -1,24 +1,36 @@
 {
   "sku": "JY-161",
-  "name": "Double Nylon Hammock 500lb",
+  "name": "Portable 3-in-1 Camping Hammock",
   "category": "hammocks",
-  "shortDesc": "Nylon · 2P · 500 lbs",
+  "shortDesc": "Seating Capacity 2.0 · Color Black & Grey",
   "specs": [
     {
-      "key": "Material",
-      "value": "Nylon"
+      "key": "Seating Capacity 2.0",
+      "value": ""
     },
     {
-      "key": "Capacity",
-      "value": "500 lbs"
+      "key": "Color Black & Grey",
+      "value": ""
     },
     {
-      "key": "Persons",
-      "value": "2"
+      "key": "Material Type Nylon",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "28.5 oz"
+      "key": "Measurements",
+      "value": ""
+    },
+    {
+      "key": "Item Weight 28.5 Ounces",
+      "value": ""
+    },
+    {
+      "key": "Maximum Weight Recommendation",
+      "value": ""
+    },
+    {
+      "key": "500 Pounds",
+      "value": ""
     }
   ]
 }

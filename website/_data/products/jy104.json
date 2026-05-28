@@ -1,24 +1,56 @@
 {
   "sku": "JY-104",
-  "name": "Aero 7075 Hiking Pole 130cm",
+  "name": "Alloy Foldable Hiking Pole",
   "category": "poles",
-  "shortDesc": "Aero 7075 · 130 cm",
+  "shortDesc": "Material Aero-Grade Aluminum Alloy Steel · Color Green 2pc",
   "specs": [
     {
-      "key": "Material",
-      "value": "Aero-Grade 7075 Aluminum"
+      "key": "Material Aero-Grade Aluminum Alloy Steel",
+      "value": ""
     },
     {
-      "key": "Extended",
-      "value": "130 cm"
+      "key": "Color Green 2pc",
+      "value": ""
     },
     {
-      "key": "Handle",
-      "value": "EVA Foam"
+      "key": "Shaft Material Aluminum",
+      "value": ""
     },
     {
-      "key": "Lock",
-      "value": "Metal Flip Lock"
+      "key": "Extended Length 130 Centimeters",
+      "value": ""
+    },
+    {
+      "key": "Handle Material Ethylene Vinyl Acetate",
+      "value": ""
+    },
+    {
+      "key": "Base Material Aluminum",
+      "value": ""
+    },
+    {
+      "key": "Material Type Aero-Grade Aluminum",
+      "value": ""
+    },
+    {
+      "key": "Alloy Steel850",
+      "value": ""
+    },
+    {
+      "key": "Aero-grade 7075Aluminum alloy",
+      "value": ""
+    },
+    {
+      "key": "METAL FLIP LOCK",
+      "value": ""
+    },
+    {
+      "key": "EVA Foam",
+      "value": ""
+    },
+    {
+      "key": "40X12cm",
+      "value": ""
     }
   ]
 }

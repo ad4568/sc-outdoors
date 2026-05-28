@@ -1,24 +1,52 @@
 {
   "sku": "JY-126",
-  "name": "Multi-Mode LED Lantern",
+  "name": "Single gross weight: 0.920 kg",
   "category": "lighting",
-  "shortDesc": "30–720 LM · 1800–7000K",
+  "shortDesc": "Beam Angle(°) 360 · Lamp Luminous Efficiency(lm/w) 10",
   "specs": [
     {
-      "key": "Brightness",
-      "value": "30–720 LM"
+      "key": "Beam Angle(°) 360",
+      "value": ""
     },
     {
-      "key": "Color Temp",
-      "value": "1800–7000 K"
+      "key": "Lamp Luminous Efficiency(lm/w) 10",
+      "value": ""
     },
     {
-      "key": "Runtime",
-      "value": "11–180 H"
+      "key": "Lamp Luminous Flux(lm) 30-720",
+      "value": ""
     },
     {
-      "key": "Lifespan",
-      "value": "10000 h"
+      "key": "Working Temperature(℃) -20",
+      "value": "65"
+    },
+    {
+      "key": "Lifespan (hours) 10000",
+      "value": ""
+    },
+    {
+      "key": "Product Weight（kg）0.39",
+      "value": ""
+    },
+    {
+      "key": "Lumen value 30-720LM",
+      "value": ""
+    },
+    {
+      "key": "Color temperature 1800-7000K",
+      "value": ""
+    },
+    {
+      "key": "Charging time 6H",
+      "value": ""
+    },
+    {
+      "key": "Working time 11-180H",
+      "value": ""
+    },
+    {
+      "key": "Single package size",
+      "value": "15.0X25.0X15.0 cm"
     }
   ]
 }

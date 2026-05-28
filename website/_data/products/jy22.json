@@ -1,20 +1,32 @@
 {
   "sku": "JY-22",
-  "name": "Carbon Steel Memory Foam Chair",
+  "name": "Metal Frame Chair",
   "category": "chairs",
-  "shortDesc": "Carbon steel · Memory foam",
+  "shortDesc": "Material Carbon steel + memory cotton · Cushion Soft Cushion",
   "specs": [
     {
-      "key": "Material",
-      "value": "Carbon Steel + Memory Cotton"
+      "key": "Material Carbon steel + memory cotton",
+      "value": ""
     },
     {
-      "key": "Cushion",
-      "value": "Soft memory foam"
+      "key": "Cushion Soft Cushion",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "11 kg"
+      "key": "Package 711189cm",
+      "value": ""
+    },
+    {
+      "key": "Unit Weight 11KG",
+      "value": ""
+    },
+    {
+      "key": "Single package size",
+      "value": "94X76X16 cm"
+    },
+    {
+      "key": "Single gross weight",
+      "value": "15.000 kg"
     }
   ]
 }

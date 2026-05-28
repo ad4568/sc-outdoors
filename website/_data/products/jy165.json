@@ -1,24 +1,32 @@
 {
   "sku": "JY-165",
-  "name": "Parachute Nylon Hammock",
+  "name": "Lightweight Camping Hammock",
   "category": "hammocks",
-  "shortDesc": "Parachute nylon · 300×200 cm",
+  "shortDesc": "Material: Parachute nylon fabric · Weight Capacity: 500lb ( 226.80kg )",
   "specs": [
     {
       "key": "Material",
-      "value": "Parachute Nylon"
+      "value": "Parachute nylon fabric"
+    },
+    {
+      "key": "Weight Capacity",
+      "value": "500lb ( 226.80kg )"
     },
     {
       "key": "Size",
-      "value": "300×200 cm"
+      "value": "300 x 200cm ( 118’‘L x 78’’W )"
     },
     {
-      "key": "Capacity",
-      "value": "500 lbs"
+      "key": "Weight",
+      "value": "35 ounces"
     },
     {
-      "key": "Strap",
-      "value": "10 ft"
+      "key": "Hammock Stap",
+      "value": "10 Feet long"
+    },
+    {
+      "key": "Carabiner",
+      "value": "8x80mm, Maximum tension 300kg"
     }
   ]
 }

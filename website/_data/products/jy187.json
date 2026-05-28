@@ -1,24 +1,40 @@
 {
   "sku": "JY-187",
-  "name": "Waterproof Motorcycle Cover",
+  "name": "Waterproof 600D Motorcycle Shelter",
   "category": "covers",
-  "shortDesc": "WP · 104×41×51 inches",
+  "shortDesc": "Color black, silver · Water Resistance Level Waterproof",
   "specs": [
     {
-      "key": "WR",
-      "value": "Waterproof"
+      "key": "Color black, silver",
+      "value": ""
     },
     {
-      "key": "Size",
-      "value": "104\"×41\"×51\""
+      "key": "Water Resistance Level Waterproof",
+      "value": ""
     },
     {
-      "key": "Weight",
-      "value": "4.4 lbs"
+      "key": "Item dimensions 104.33 x 41.34 x 51.18 inches",
+      "value": ""
     },
     {
-      "key": "Color",
-      "value": "Black/Silver"
+      "key": "Coverage weather and impact protection for",
+      "value": ""
+    },
+    {
+      "key": "various motorcycles",
+      "value": ""
+    },
+    {
+      "key": "Model Premium Motorcycle Cover",
+      "value": ""
+    },
+    {
+      "key": "Item Weight 4.4 pounds",
+      "value": ""
+    },
+    {
+      "key": "Product Dimensions 104.33 x 41.34 x 51.18 inches",
+      "value": ""
     }
   ]
 }

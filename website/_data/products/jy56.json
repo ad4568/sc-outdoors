@@ -1,0 +1,24 @@
+{
+  "sku": "JY-56",
+  "name": "Table C",
+  "category": "tables",
+  "shortDesc": "Product Dimensions 15.75”D x 23.2”W x 15.35”H · Maximum Weight Recommendation 44",
+  "specs": [
+    {
+      "key": "Product Dimensions 15.75”D x 23.2”W x 15.35”H",
+      "value": ""
+    },
+    {
+      "key": "Maximum Weight Recommendation 44 Pounds",
+      "value": ""
+    },
+    {
+      "key": "Color Black",
+      "value": ""
+    },
+    {
+      "key": "The folding size is 16.9” x 4.5”",
+      "value": ""
+    }
+  ]
+}

@@ -1,20 +1,40 @@
 {
   "sku": "JY-49",
-  "name": "Foldable Oxford Table S/M",
+  "name": "Portable picnic camping table",
   "category": "tables",
-  "shortDesc": "600D Oxford · S/M sizes",
+  "shortDesc": "Material 600D Oxford cloth · Metal Type Aluminum",
   "specs": [
     {
-      "key": "Material",
-      "value": "600D Oxford + Aluminum"
+      "key": "Material 600D Oxford cloth",
+      "value": ""
     },
     {
-      "key": "Size (S)",
-      "value": "40×34.5×27 cm / 970g"
+      "key": "Metal Type Aluminum",
+      "value": ""
     },
     {
-      "key": "Size (M)",
-      "value": "56×40.5×40 cm / 1352g"
+      "key": "weight(S) 970g",
+      "value": ""
+    },
+    {
+      "key": "weight(M) 1352g",
+      "value": ""
+    },
+    {
+      "key": "SIZE(S) 4034.527cm",
+      "value": ""
+    },
+    {
+      "key": "SIZE(M) 5640.540cm",
+      "value": ""
+    },
+    {
+      "key": "Storage Size(S) 3028.521cm",
+      "value": ""
+    },
+    {
+      "key": "Storage Size(M) 37.53522.5cm",
+      "value": ""
     }
   ]
 }
