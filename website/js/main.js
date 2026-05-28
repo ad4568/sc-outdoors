@@ -134,7 +134,12 @@ if (!document.getElementById('productMain')) {
       // Update all elements with data-setting attribute
       document.querySelectorAll('[data-setting]').forEach(el => {
         const key = el.dataset.setting;
-        if (s[key] !== undefined) el.textContent = s[key];
+        if (s[key] === undefined) return;
+        if (key === 'aboutText') {
+          el.innerHTML = s[key].split(/\n+/).filter(Boolean).map(p => `<p>${p}</p>`).join('');
+        } else {
+          el.textContent = s[key];
+        }
       });
     })
     .catch(() => {});

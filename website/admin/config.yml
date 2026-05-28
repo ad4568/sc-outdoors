@@ -57,3 +57,5 @@ collections:
           - { label: "Phone", name: "phone", widget: "string" }
           - { label: "WhatsApp", name: "whatsapp", widget: "string" }
           - { label: "Location", name: "location", widget: "string" }
+          - { label: "Footer Description", name: "footerDesc", widget: "string" }
+          - { label: "About Us Text", name: "aboutText", widget: "text", hint: "Company introduction shown on the About Us page. Use blank lines to separate paragraphs." }
