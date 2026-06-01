@@ -41,17 +41,8 @@
     <aside class="sidebar">
       <div class="sidebar-box">
         <div class="sidebar-title">Categories</div>
-        <ul>
-          <li><a href="#chairs">&#129681; Camping Chairs</a></li>
-          <li><a href="#tables">&#127963; Camping Tables</a></li>
-          <li><a href="#tents">&#9978; Tents &amp; Shelters</a></li>
-          <li><a href="#poles">&#127939; Trekking Poles</a></li>
-          <li><a href="#lighting">&#128161; Camping Lighting</a></li>
-          <li><a href="#bags">&#127890; Bags &amp; Packs</a></li>
-          <li><a href="#hammocks">&#127959; Hammocks</a></li>
-          <li><a href="#cooking">&#127859; Cooking Equipment</a></li>
-          <li><a href="#covers">&#128663; Covers &amp; Canopies</a></li>
-          <li><a href="#pet">&#128054; Pet Products</a></li>
+        <ul id="catList">
+          <li><a href="#all">Loading…</a></li>
         </ul>
       </div>
       <div class="sidebar-box" style="padding:16px;text-align:center;">
@@ -61,7 +52,10 @@
     </aside>
 
     <main id="productMain">
-      <div style="padding:40px;text-align:center;color:#888;">Loading products…</div>
+      <div class="cat-chips" id="catChips"></div>
+      <div id="productList">
+        <div style="padding:40px;text-align:center;color:#888;">Loading products…</div>
+      </div>
     </main>
 
   </div>

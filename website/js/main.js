@@ -53,9 +53,10 @@ if (productMain) {
   }
 
   async function loadProducts() {
+    const productList = document.getElementById('productList');
     const indexRes = await fetch('_data/products-index.json').catch(() => null);
     if (!indexRes || !indexRes.ok) {
-      productMain.innerHTML = '<p style="padding:40px;text-align:center;">Could not load products.</p>';
+      productList.innerHTML = '<p style="padding:40px;text-align:center;">Could not load products.</p>';
       return;
     }
     const slugs = await indexRes.json();
@@ -74,18 +75,83 @@ if (productMain) {
       byCat[p.category].push(p);
     }
 
+    // Only categories that actually have products
+    const activeCats = CATEGORIES.filter(c => (byCat[c.id] || []).length);
+
+    // Render one section per category
     let html = '';
-    for (const cat of CATEGORIES) {
-      const cards = (byCat[cat.id] || []).map(cardHTML).join('');
-      if (!cards) continue;
+    for (const cat of activeCats) {
+      const cards = (byCat[cat.id]).map(cardHTML).join('');
       html += `<div class="cat-section" id="${cat.id}">
-        <div class="cat-heading">${cat.label}</div>
+        <div class="cat-heading">${cat.label} <span class="cat-heading-count">${byCat[cat.id].length}</span></div>
         <div class="product-grid">${cards}</div>
       </div>`;
     }
-    productMain.innerHTML = html || '<p style="padding:40px;text-align:center;">No products found.</p>';
+    productList.innerHTML = html || '<p style="padding:40px;text-align:center;">No products found.</p>';
+
+    buildCategoryNav(activeCats, byCat, products.length);
     initModal();
+    applyFilterFromHash(activeCats);
   }
+
+  // Build the sidebar list + the mobile chip bar from real data
+  function buildCategoryNav(activeCats, byCat, total) {
+    const items = [{ id: 'all', label: '📦 All Products', count: total }]
+      .concat(activeCats.map(c => ({ id: c.id, label: c.label, count: byCat[c.id].length })));
+
+    const catList = document.getElementById('catList');
+    if (catList) {
+      catList.innerHTML = items.map(it =>
+        `<li><a href="#${it.id}" data-cat="${it.id}">${it.label}<span class="cat-count-badge">${it.count}</span></a></li>`
+      ).join('');
+    }
+
+    const chips = document.getElementById('catChips');
+    if (chips) {
+      chips.innerHTML = items.map(it =>
+        `<button class="cat-chip" data-cat="${it.id}">${it.label} <span class="chip-count">${it.count}</span></button>`
+      ).join('');
+    }
+
+    document.querySelectorAll('[data-cat]').forEach(el => {
+      el.addEventListener('click', e => {
+        e.preventDefault();
+        showCategory(el.dataset.cat, true);
+      });
+    });
+  }
+
+  // Show one category (or all) and sync nav highlight + URL hash
+  function showCategory(id, scroll) {
+    const sections = document.querySelectorAll('.cat-section');
+    if (!sections.length) return;
+    const exists = id !== 'all' && document.getElementById(id);
+    if (id !== 'all' && !exists) id = 'all';
+
+    sections.forEach(sec => {
+      sec.style.display = (id === 'all' || sec.id === id) ? '' : 'none';
+    });
+
+    document.querySelectorAll('[data-cat]').forEach(el => {
+      el.classList.toggle('active', el.dataset.cat === id);
+    });
+
+    if (('#' + id) !== window.location.hash) {
+      history.replaceState(null, '', '#' + id);
+    }
+
+    if (scroll) {
+      const top = productMain.getBoundingClientRect().top + window.scrollY - 90;
+      window.scrollTo({ top: Math.max(top, 0), behavior: 'smooth' });
+    }
+  }
+
+  function applyFilterFromHash() {
+    const id = decodeURIComponent(window.location.hash.slice(1)) || 'all';
+    showCategory(id, false);
+  }
+
+  window.addEventListener('hashchange', applyFilterFromHash);
 
   loadProducts();
 }
