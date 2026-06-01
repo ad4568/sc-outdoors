@@ -54,20 +54,12 @@ if (productMain) {
 
   async function loadProducts() {
     const productList = document.getElementById('productList');
-    const indexRes = await fetch('_data/products-index.json').catch(() => null);
-    if (!indexRes || !indexRes.ok) {
+    const res = await fetch('_data/products-all.json').catch(() => null);
+    if (!res || !res.ok) {
       productList.innerHTML = '<p style="padding:40px;text-align:center;">Could not load products.</p>';
       return;
     }
-    const slugs = await indexRes.json();
-
-    const products = (await Promise.all(
-      slugs.map(slug =>
-        fetch(`_data/products/${slug}.json`)
-          .then(r => r.ok ? r.json() : null)
-          .catch(() => null)
-      )
-    )).filter(Boolean);
+    const products = (await res.json()).filter(Boolean);
 
     const byCat = {};
     for (const p of products) {
