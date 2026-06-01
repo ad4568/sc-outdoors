@@ -1,3 +1,27 @@
+// Mobile nav toggle (hamburger) — injected so all pages share it
+(function() {
+  const inner = document.querySelector('.site-header .header-inner');
+  const nav = inner && inner.querySelector('nav');
+  if (!nav) return;
+  const btn = document.createElement('button');
+  btn.className = 'nav-toggle';
+  btn.setAttribute('aria-label', 'Toggle menu');
+  btn.setAttribute('aria-expanded', 'false');
+  btn.innerHTML = '<span></span><span></span><span></span>';
+  inner.appendChild(btn);
+  function close() { nav.classList.remove('open'); btn.classList.remove('open'); btn.setAttribute('aria-expanded', 'false'); }
+  btn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    const open = nav.classList.toggle('open');
+    btn.classList.toggle('open', open);
+    btn.setAttribute('aria-expanded', String(open));
+  });
+  nav.querySelectorAll('a').forEach(a => a.addEventListener('click', close));
+  document.addEventListener('click', function(e) {
+    if (nav.classList.contains('open') && !nav.contains(e.target) && e.target !== btn) close();
+  });
+})();
+
 // Hero Slider
 (function() {
   const slides = document.querySelectorAll('.hero-slide');
